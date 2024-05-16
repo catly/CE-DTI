@@ -1,0 +1,708 @@
+Cetrorelix is a synthetic peptide antagonist of gonadotropin releasing hormone used to prevent luteinizing hormone surges in women undergoing assisted reproduction therapy.
+Thiamine is a vitamin used to correct vitamin B1 deficiency.
+Vitamin A is a vitamin important for retinal function that is used clinically to correct vitamin A deficiency.
+Pravastatin is an HMG-CoA reductase inhibitor used to lower lipid levels and to reduce the risk of cardiovascular events, including myocardial infarction and stroke.
+Fluvoxamine is a selective serotonin-reuptake inhibitor used to treat obsessive-compulsive disorder.
+Valsartan is an angiotensin-receptor blocker used to manage hypertension alone or in combination with other antihypertensive agents and to manage heart failure in patients who are intolerant to ACE inhibitors.
+Ramipril is an ACE inhibitor used for the management of hypertension and the reduction of cardiovascular mortality following myocardial infarction in hemodynamically stable patients with clinical signs of congestive heart failure.
+Flunisolide is an inhaled corticosteroid used as a prophylactic therapy in the maintenance treatment of asthma.
+Baclofen is a GABA-ergic agonist used to manage severe spasticity of cerebral or spinal origin in adult and pediatric patients.
+Amphetamine is a CNS stimulant and sympathomimetic agent indicated for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
+Nicotine is a stimulatory alkaloid found in tobacco products that is often used for the relief of nicotine withdrawal symptoms and as an aid to smoking cessation.
+Cevimeline is a muscarinic agonist with parasympathomimetic activities that is used for the symptomatic treatment of dry mouth in patients with Sjögren's Syndrome.
+Lorazepam is a short-acting benzodiazepine commonly used to treat panic disorders, severe anxiety, and seizures.
+Esmolol is a cardioselective beta-adrenergic blocker used for the short-term control of ventricular rate and heart rate in various types of tachycardia, including perioperative tachycardia and hypertension.
+Bortezomib is a proteasome inhibitor used to treat multiple myeloma in patients who have not been successfully treated with at least two previous therapies.
+Phentermine is a sympathomimetic anorectic agent used as a short-term adjunct therapy that is included in a regimen of weight reduction in cases of exogenous obesity.
+Tramadol is a centrally-acting opioid agonist and SNRI (serotonin/norepinephrine reuptake inhibitor) used for the management of moderate to severe pain in adults.
+Betaxolol is a cardioselective beta blocking agent commonly used to treat hypertension and elevated intraocular pressure (when administered ophthalmically).
+Fluconazole is a triazole antifungal used to treat various fungal infections including candidiasis.
+Troglitazone is an oral antihyperglycemic agent which acts primarily by decreasing insulin resistance.
+Oseltamivir is a neuraminidase inhibitor used in the prophylaxis and treatment of influenza.
+Erythromycin is a macrolide antibiotic used to treat and prevent a variety of bacterial infections.
+Hydroxocobalamin is a synthetic form of vitamin B12 used to treat vitamin B12 associated disorders and cyanide poisoning.
+Caffeine is a stimulant present in tea, coffee, cola beverages, analgesic drugs, and agents used to increase alertness. It is also used in to prevent and treat pulmonary complications of premature birth.
+Succinylcholine is a depolarizing skeletal muscle relaxant used adjunctly to anesthesia and for skeletal muscle relaxation during intubation, mechanical ventilation, and surgical procedures.
+Sildenafil is a phosphodiesterase inhibitor used for the treatment of erectile dysfunction.
+Dofetilide is a class III antiarrhythmic drug used for the maintenance of normal sinus rhythm and cardioversion in cases of atrial fibrillation and atrial flutter.
+Pyrimethamine is an antiparasitic drug used in the prevention and treatment of toxoplasmosis and malaria.
+Reserpine is an adrenergic blocking agent used to treat mild to moderate hypertension via the disruption of norepinephrine vesicular storage.
+Azithromycin is a macrolide antibiotic used to treat a variety of bacterial infections.
+Ticlopidine is a platelet aggregation inhibitor used in the prevention of conditions associated with thrombi, such as stroke and transient ischemic attacks (TIA).
+Adapalene is a third-generation topical retinoid with anti-comedogenic, comedolytic, and anti-inflammatory properties used to treat acne vulgaris in adolescents and adults.
+Midodrine is an alpha-adrenergic agonist used to treat orthostatic hypotension.
+Pantoprazole is a proton pump inhibitor used to treat erosive esophagitis, gastric acid hypersecretion, and to promote healing of tissue damage caused by gastric acid.
+Citalopram is a selective serotonin reuptake inhibitor (SSRI) used in the treatment of depression.
+Eletriptan is a triptan used for the treatment of migraines.
+Moxifloxacin is a fluoroquinolone antibiotic used to treat various bacterial infections.
+Nelfinavir is a viral protease inhibitor used in the treatment of HIV infection.
+Glimepiride is a sulfonylurea drug used to treat type 2 diabetes mellitus.
+Indinavir is a protease inhibitor used to treat HIV infection.
+Lovastatin is an HMG-CoA reductase inhibitor used to lower LDL cholesterol and reduce the risk of cardiovascular disease and associated conditions, including myocardial infarction and stroke.
+Enflurane is a halogenated inhalational anesthetic agent used for the induction and maintenance of anesthesia and for analgesia during labor and delivery.
+Pregabalin is an anticonvulsant drug used to treat neuropathic pain conditions and fibromyalgia, and for the treatment of partial onset seizures in combination with other anticonvulsants.
+Temazepam is a short-acting benzodiazepine commonly used to treat panic disorders, severe anxiety, and insomnia.
+Milrinone is a PDE-III inhibitor with inotropic, lusitropic, and vasodilatory properties used for the short-term treatment of acute decompensated heart failure.
+Nevirapine is a non-nucleoside reverse transcriptase inhibitor used as part of a management regimen for HIV-1 virus infection.
+Cladribine is a purine antimetabolite used for the management of relapsing forms of Multiple Sclerosis (MS), used in patients who have not responded to or who were unable to tolerate alternative MS drugs.
+Ranolazine is an anti-anginal drug used for the treatment of chronic angina.
+Ziprasidone is an atypical antipsychotic used to manage schizophrenia, bipolar mania, and agitation in patients with schizophrenia.
+Methysergide is an ergot alkaloid used for the prophylaxis of migraine and cluster headaches.
+Cabergoline is a dopamine receptor agonist used for the treatment of hyperprolactinemic conditions due to various causes.
+Dapsone is a sulfone drug used to treat acne vulgaris, Hansen's disease, and dermatitis herpetiformis.
+Phenytoin is an anticonvulsant drug used in the prophylaxis and control of various types of seizures.
+Doxycycline is a tetracycline antibiotic used to treat a wide variety of bacterial infections.
+Clotrimazole is a topical broad-spectrum antifungal agent used for the treatment of a wide variety of dermatophyte infections and candidiasis.
+Anagrelide is a platelet-reducing agent used to treat thrombocythemia, and its related complications, secondary to myeloproliferative neoplasms.
+Sulfisoxazole is a sulfonamide antibiotic used with other antibiotics to prevent and treat a variety of bacterial infections.
+Metoprolol is a beta-blocker used in the treatment of hypertension and angina, and used to reduce mortality due to myocardial infarction.
+Ropinirole is a non-ergoline dopamine agonist used to treat the symptoms of Parkinson's disease and Restless Legs Syndrome.
+Diatrizoate is an injected contrast agent used in radiology.
+Topiramate is an anticonvulsant drug used in the control of epilepsy and in the prophylaxis and treatment of migraines.
+Amsacrine is a cytotoxic agent used to induce remission in acute adult leukemia that is not adequately responsive to other agents.
+Theophylline is a xanthine used to manage the symptoms of asthma, COPD, and other lung conditions caused by reversible airflow obstruction.
+Argatroban is a synthetic direct thrombin inhibitor used for the prevention and treatment of thrombosis related to heparin use.
+Disopyramide is a class 1A antiarrhythmic agent used to treat life-threatening ventricular arrhythmias.
+Lidocaine is a local anesthetic used in a wide variety of superficial and invasive procedures.
+Pamidronic acid is a bisphosphonate used to treat Paget's disease, to treat hypercalcemia of malignancy, and to treat osteolytic bone lesions.
+Clemastine is an antihistamine with sedative and anticholinergic effects used to treat the symptoms of allergic rhinitis.
+Acarbose is an alpha-glucosidase inhibitor used in adjunctly with diet and exercise for the management of glycemic control in patients with type 2 diabetes mellitus.
+Venlafaxine is a selective serotonin and norepinephrine reuptake inhibitor (SNRI) used for the treatment of major depression, generalized or social anxiety disorder, and panic disorder.
+Travoprost is a prostaglandin analog used in the treatment of elevated intraocular pressure due to open angle glaucoma or ocular hypertension.
+Amcinonide is a topical corticosteroid used in the treatment of inflammation and pruritus due to a variety of dermatoses.
+Atomoxetine is a selective norepinephrine reuptake inhibitor (SNRI) used in the management of Attention Deficit Hyperactivity Disorder (ADHD).
+Chlorambucil is a chemotherapy agent used in the management of chronic lymphocytic leukemia and malignant lymphomas.
+Etomidate is a short-acting intravenous anesthetic indicated for the induction of anesthesia and supplementation of subpotent anesthesia during short operative procedures.
+Raltitrexed is a folate analog thymidylate synthase inhibitor used in the treatment of advanced colorectal cancer.
+Morphine is an opioid agonist used for the relief of moderate to severe acute and chronic pain.
+Ropivacaine is an amide-type local anesthetic used for local or regional anesthesia during surgery and for short-term management of acute pain.
+Bupivacaine is a local anesthetic used in a wide variety of superficial and invasive procedures.
+Penciclovir is a topical nucleoside polymerase inhibitor used in the treatment of recurrent herpes labialis.
+Tranexamic acid is an antifibrinolytic used to reduce or prevent hemorrhagic episodes, especially in the context of hyperfibrinolytic disorders.
+Ertapenem is a carbapenem antibiotic used for the treatment of moderate to severe infections caused by susceptible bacteria.
+Bexarotene is a retinoid drug used for cutaneous manifestations of T-cell lymphoma in patients who have not responded well to previous systemic therapy.
+Ibutilide is a class III antiarrhythmic agent used to correct atrial fibrillation and atrial flutter, which can be considered as an alternative to cardioversion.
+Chlorthalidone is a diuretic used to treat hypertension or edema caused by heart failure, renal failure, hepatic cirrhosis, estrogen therapy, and other conditions.
+Pentobarbital is a barbiturate drug used to induce sleep, cause sedation, and control certain types of seizures.
+Valproic acid is an anticonvulsant used to control complex partial seizures and both simple and complex absence seizures.
+Zolmitriptan is a member of the triptan class of 5-HT(1B/1D/1F) receptor agonist drugs used for the acute treatment of migraine with or without aura in adults.
+Acetaminophen is an analgesic drug used alone or in combination with opioids for pain management, and as an antipyretic agent.
+Gefitinib is a tyrosine kinase inhibitor used as first-line therapy to treat non-small cell lung carcinoma (NSCLC) that meets certain genetic mutation criteria.
+Codeine is an opioid analgesic used to treat moderate to severe pain when the use of an opioid is indicated.
+Piperacillin is a penicillin antibiotic combined with tazobactam to treat piperacillin-resistant, piperacillin/tazobactam­ susceptible, β-lactamase generating strains of several bacteria.
+Dihydroergotamine is an ergot alkaloid used in the acute treatment of migraine headache and cluster headache.
+Amitriptyline is a tricyclic antidepressant indicated in the treatment of depressive illness, either endogenous or psychotic, and to relieve depression associated anxiety.
+Tolcapone is a catechol-O-methyltransferase (COMT) inhibitor used as adjunct therapy in the symptomatic management of idiopathic Parkinson's disease.
+Fluorometholone is an ophthalmic corticosteroid used for the relief of inflammation located in both the palpebral and bulbar conjunctiva, the cornea, and the anterior segment of the globe of the eye.
+Hydromorphone is an opioid analgesic used to treat moderate to severe pain when the use of an opioid is indicated.
+Indomethacin is a nonsteroidal anti-inflammatory (NSAID) used for symptomatic management of chronic musculoskeletal pain conditions and to induce closure of a hemodynamically significant patent ductus arteriosus in premature infants.
+Ethambutol is an antituberculosis agent used in the prophylaxis and treatment of tuberculosis (TB).
+Metformin is a biguanide antihyperglycemic used in conjunction with diet and exercise for glycemic control in type 2 diabetes mellitus. It is also used off-label for insulin resistance in polycystic ovary syndrome (PCOS).
+Methadone is an opioid analgesic indicated for management of severe pain that is not responsive to alternative treatments. Also used to aid in detoxification and maintenance treatment of opioid addiction.
+Olanzapine is an antipsychotic drug used in the management of schizophrenia, bipolar 1 disorder, and agitation associated with these disorders.
+Atenolol is a synthetic beta-1 selective blocker used in the management of hypertension and chronic angina, and to reduce mortality in known or suspected myocardial infarction in hemodynamically stable patients.
+Pimecrolimus is a topical calcineurin inhibitor used in the treatment of mild-moderate atopic dermatitis who are not candidates for other types of therapy due to previous lack of response or other reasons.
+Omeprazole is a proton pump inhibitor used to treat GERD associated conditions such as heartburn and gastric acid hypersecretion, and to promote healing of tissue damage and ulcers caused by gastric acid and H. pylori infection.
+Pyrazinamide is an antituberculosis agent used as a component of tuberculosis (TB) treatment.
+Cetirizine is a selective Histamine-1 antagonist drug used in allergic rhinitis and chronic urticaria.
+Diltiazem is a calcium channel blocker used to treat hypertension and to manage chronic stable angina.
+Protriptyline is a tricyclic antidepressant that is indicated in the treatment of depression only under close clinical supervision.
+Alfuzosin is an alpha-1 adrenergic antagonist used in the symptomatic management of benign prostatic hypertrophy (BPH).
+Clobazam is a benzodiazepine used as adjunct treatment in seizures associated with Lennox-Gastaut syndrome.
+Minoxidil is an antihypertensive vasodilating agent used for resistant hypertension that is symptomatic or has caused end organ damage.
+Megestrol acetate is a progestin that is administered orally to treat anorexia and cachexia or serious unexplained weight loss and is also used as an antineoplastic agent to treat certain types of malignancy.
+Aztreonam is a beta-lactam antibiotic used to treat select aztreonam sensitive gram negative bacteria.
+Chlorzoxazone is a drug with muscle relaxant properties that is used as an adjunct to physical therapy and analgesics to treat stiffness and pain caused by a variety of musculoskeletal conditions.
+Aminoglutethimide is an adrenocortical steroid synthesis inhibitor used in the treatment of Cushing's syndrome.
+Mefloquine is an antimalarial agent used in the prophylaxis and treatment of malaria caused by Plasmodium falciparum and Plasmodium vivax.
+Sulfadiazine is a sulfonamide antibiotic used in a variety of infections, such as urinary tract infections, trachoma, and chancroid.
+Vinorelbine is a vinca alkaloid used in the treatment of metastatic non-small cell lung carcinoma (NSLC) and in conjunction with other drugs in locally advanced NSCLC.
+Anidulafungin is an antifungal used in the treatment of several types of candida infections.
+Clozapine is an atypical or second-generation antipsychotic drug used in treatment-resistant schizophrenia and to decrease suicide risk in schizophrenic patients.
+Sucralfate is a gastro-duodenal protective agent used in the treatment of gastric and duodenal ulcers and to prevent duodenal ulcer recurrence.
+Levonorgestrel is a progestin found in oral and IUD contraceptives and at higher doses in emergency contraceptives.
+Norepinephrine is a sympathomimetic used in the control of blood pressure during various hypotensive states and as an adjunct treatment during cardiac arrest.
+Cidofovir is an antiviral agent used to treat Cytomegalovirus (CMV) retinitis in patients with AIDS.
+Mirtazapine is a tetracyclic antidepressant used in the treatment of major depression and is used off-label as a drug for insomnia and to increase appetite.
+Meprobamate is an anxiolytic drug used for the short-term management of anxiety symptoms.
+Timolol is a non-selective beta adrenergic blocker used in the treatment of elevated intraocular pressure in ocular hypertension or open angle glaucoma.
+Treprostinil is a prostacyclin vasodilator for the treatment of pulmonary arterial hypertension to relieve exercise associated symptoms and to prevent clinical deterioration after stopping epoprostenol.
+Colestipol is a bile acid sequestrant used as an adjunct to diet and exercise to reduce LDL-C cholesterol levels in patients with primary hypercholesterolemia.
+Trihexyphenidyl is an antispasmodic drug used as an adjunct drug in the management of parkinsonism and as a treatment for extrapyramidal symptoms caused by drugs affecting the central nervous system (CNS).
+Palonosetron is a serotonin antagonist used in the prophylaxis or management of vomiting that results from emetogenic chemotherapy, and for the management of postoperative nausea and vomiting.
+Mexiletine is a class 1B antiarrhythmic agent used in the treatment of documented ventricular arrhythmias that warrant treatment.
+Amlodipine is a calcium channel blocker used to treat hypertension and angina.
+Tacrine is an anticholinesterase drug used for the management of Alzheimer's disease symptoms.
+Triamterene is a potassium-sparing diuretic used in the treatment of edema and in the management of hypertension.
+Phenylephrine is an alpha-1 adrenergic agonist used in the management of hypotension, generally in the surgical setting associated with the use of anesthetics.
+Digoxin is a cardiac glycoside used in the treatment of mild to moderate heart failure and for ventricular response rate control in chronic atrial fibrillation.
+Nimodipine is a calcium channel blocker used to improve neurological outcomes in patients with subarachnoid hemorrhage due to a ruptured intracranial aneurysm.
+Carisoprodol is a centrally acting muscle relaxant used to relieve the discomfort associated with various musculoskeletal conditions.
+Progesterone is a hormone used for a variety of functions, including contraception, control of abnormal uterine bleeding, maintenance of pregnancy, and prevention of endometrial hyperplasia.
+Sorafenib is a kinase inhibitor used to treat unresectable liver carcinoma, advanced renal carcinoma, and differentiated thyroid carcinoma.
+Griseofulvin is an antifungal agent used to treat a variety of superficial tinea infections and fungal infections of the fingernails and toes.
+Nisoldipine is a calcium channel blocker used as monotherapy or combined with other drugs for the treatment of hypertension.
+Alprazolam is a triazolobenzodiazepine with intermediate onset commonly used to treat panic disorders and generalized anxiety in addition to anxiety associated with depression.
+Loxapine is a antipsychotic used for the treatment of schizophrenia.
+Carbachol is a direct acting miotic agent administered ophthalmically to decrease intraocular pressure after cataract surgery, and to induce miosis during surgery.
+Rosiglitazone is a thiazolidinedione indicated as an adjunct to diet and exercise to maintain glycemic control in type 2 diabetes.
+Pramipexole is a non-ergot dopamine agonist used to treat the signs and symptoms of idiopathic Parkinson's disease and Restless Legs Syndrome (RLS).
+Ampicillin is a penicillin derivative used for the treatment of a variety of infections caused by gram-positive and gram-negative bacteria as well as some anaerobes.
+Phenoxymethylpenicillin is a penicillin antibiotic used to prevent and treat mild to moderately severe infections in the respiratory tract, skin, and soft tissues.
+Secobarbital is a barbiturate used for the short-term treatment of insomnia.
+Miglustat is a glucosylceramide synthase inhibitor used for the management of mild to moderate type I Gaucher disease for patients who are not candidates for whole enzyme replacement.
+Spironolactone is an aldosterone receptor antagonist used to treat edema, hypertension, heart failure, and aldosteronism.
+Methylphenidate is a stimulant used in the management of Attention Deficit Hyperactivity Disorder (ADHD).
+Methocarbamol is a CNS depressant indicated with rest, physical therapy and other treatments to control the discomfort associated with various acute musculoskeletal conditions.
+Zolpidem is a sedative hypnotic used for the short-term treatment of insomnia to improve sleep latency.
+Famciclovir is a nucleoside analog DNA polymerase inhibitor used for the treatment of recurrent cold sores and genital herpes in healthy patients and patients with HIV, and to manage herpes zoster.
+Lindane is an ectoparasiticide and ovicide used in the treatment of Pediculosis humanis capitis (head lice) and Phthirus pubis (crab lice).
+Prochlorperazine is a phenothiazine derivative used in the treatment of schizophrenia and anxiety and to relieve severe nausea and vomiting.
+Cyproheptadine is a combined serotonin and histamine antagonist used in the treatment of allergic symptoms, for appetite stimulation, and off-label in the treatment of serotonin syndrome.
+Allopurinol is a xanthine oxidase inhibitor used to reduce urinary and serum uric acid concentrations in patients with gout, recurrent calcium oxalate calculi, and various malignancies.
+Ceftazidime is an injected broad-spectrum third-generation cephalosporin beta-lactam antibiotic used to treat or prevent a variety of bacterial infections, including pneumonia, gynecological infections, bone and joint infections, and septicemia, among others.
+Cerivastatin is a statin (or HMG CoA reductase inhibitor) used with dietary changes to decrease lipid levels and reduce the risk of cardiovascular events.
+Trimethoprim is an antifolate antibiotic often used in combination with sulfamethoxazole to treat a number of infections, including those of the urinary tract, respiratory tract, and gastrointestinal tract.
+Gemcitabine is a nucleoside metabolic inhibitor used as adjunct therapy in the treatment of certain types of ovarian cancer, non-small cell lung carcinoma, metastatic breast cancer, and as a single agent for pancreatic cancer.
+Entecavir is a nucleoside analogue used in the treatment of chronic hepatitis B for patients with active viral replication, histological evidence of active disease, or persistent elevations in liver transaminases.
+Teniposide is a cytotoxic drug used as an adjunct for chemotherapy induction in the treatment of refractory childhood acute lymphoblastic leukemia.
+Chloramphenicol is a broad spectrum antibiotic that is effective against a variety of susceptible and serious bacterial infections but is not frequently used because of its high risk of bone marrow toxicity.
+Lansoprazole is a proton pump inhibitor used to help gastrointestinal ulcers heal, to treat symptoms of gastroesophageal reflux disease (GERD), to eradicate Helicobacter pylori, and to treat hypersecretory conditions such as Zollinger-Ellison Syndrome.
+Dipivefrin is a prodrug of epinephrine used in ophthalmic solutions to reduce intraocular pressure in chronic open-angle glaucoma.
+Droperidol is a butyrophenone derivative and dopamine antagonist used to prevent and treat postoperative nausea and vomiting.
+Meperidine is an opioid agonist with analgesic and sedative properties used to manage severe pain.
+Loratadine is a second generation antihistamine used to manage the symptoms of allergic rhinitis.
+Prazosin is an alpha-blocker that causes a decrease in total peripheral resistance and is used to treat hypertension.
+Imipramine is a tricyclic antidepressant indicated for the treatment of depression and to reduce childhood enuresis.
+Acitretin is an oral retinoid used in the treatment of severe psoriasis.
+Verteporfin is a benzoporphyrin derivative used to treat pathological myopia, ocular histoplasmosis, and choroidal neovascularization in macular degeneration.
+Nabumetone is an NSAID used to treat osteoarthritis and rheumatoid arthritis.
+Ketorolac is an NSAID used to treat moderate to severe pain, rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, menstrual disorders, and headaches.
+Montelukast is a leukotriene receptor antagonist used as part of an asthma therapy regimen, to prevent exercise induced bronchoconstriction, and to treat seasonal allergic rhinitis.
+Fluoxetine is a selective serotonin reuptake inhibitor used to treat major depressive disorder, bulimia, OCD, premenstrual dysphoric disorder, panic disorder, and bipolar I.
+Methohexital is an anesthetic used to induce deep sedation.
+Chlordiazepoxide is a benzodiazepine used to treat the withdrawal symptoms of acute alcoholism, to treat preoperative anxiety, and to treat anxiety over a short term period.
+Duloxetine is a serotonin norepinephrine reuptake inhibitor used to treat generalized anxiety disorder, neuropathic pain, osteoarthritis, and stress incontinence.
+Chlorpromazine is a phenothiazine antipsychotic used to treat nausea, vomiting, preoperative anxiety, schizophrenia, bipolar disorder, and severe behavioral problems in children.
+Rimantadine is an RNA synthesis inhibitor used to prevent influenza A infection.
+Amikacin is an aminoglycoside used to treat infections caused by more resistant strains of Gram negative bacteria and some Gram positive bacteria.
+Lenalidomide is a thalidomide derivative used to treat multiple myeloma and anemia in low to intermediate risk myelodysplastic syndrome.
+Raloxifene is a selective estrogen receptor modulator that is used to prevent and treat osteoporosis and reduce the risk of invasive breast cancer in high-risk postmenopausal women.
+Celecoxib is an NSAID used to treat osteoarthritis, rheumatoid arthritis, acute pain, menstrual symptoms, and to reduce polyps is familial adenomatous polyposis.
+Brimonidine is an alpha-2 adrenergic agonist used to treat glaucoma and ocular hypertension, as well as facial erythema in rosacea.
+Dicloxacillin is a penicillin used to treat penicillinase-producing bacterial infections that are susceptible to the drug.
+Nabilone is a synthetic delta-9-THC used in the treatment of anorexia and weight loss in HIV patients as well as nausea and vomiting in cancer chemotherapy.
+Sotalol is a methane sulfonanilide beta adrenergic antagonist used to treat life-threatening ventricular arrhythmias and to maintain sinus rhythm in atrial fibrillation or flutter.
+Buspirone is an anxiolytic agent used for short-term treatment of generalized anxiety and second-line treatment of depression.
+Miglitol is an oral alpha-glucosidase inhibitor used to improve glycemic control by delaying the digestion of carbohydrates.
+Fosinopril is an ACE inhibitor used to treat mild to moderate hypertension, congestive heart failure, and to slow the progression of renal disease in hypertensive diabetics.
+Cefotaxime is a third generation cephalosporin used to treat susceptible Gram negative and Gram positive bacterial infections.
+Entacapone is a selective reversible catechol-O-methyltransferase inhibitor for the treatment of Parkinson's disease.
+Zidovudine is a dideoxynucleoside used in the treatment of HIV infection.
+Darifenacin is an M3 muscarinic receptor blocker used to treat urinary incontinence.
+Oxycodone is an opioid used in the management of moderate to severe pain.
+Flutamide is an antiandrogen used for locally confined stage B2-C and D-2 metastatic prostate carcinoma.
+Tolmetin is an NSAID used to treat acute flares of various painful conditions and used for the long term management of osteoarthritis, rheumatoid arthritis, and juvenile arthritis.
+Cimetidine is a histamine H2 receptor antagonist used to manage GERD, peptic ulcer disease, and indigestion.
+Haloperidol is an antipsychotic agent used to treat schizophrenia and other psychoses, as well as symptoms of agitation, irritability, and delirium.
+Ritonavir is an HIV protease inhibitor used in combination with other antivirals in the treatment of HIV infection.
+Nitazoxanide is a thiazolide anti-infective used to treat infections by protozoa, helminths, anaerobic bacteria, microaerophilic bacteria, and viruses.
+Cisplatin is a platinum based chemotherapy agent used to treat various sarcomas, carcinomas, lymphomas, and germ cell tumors.
+Albendazole is a benzimidazole anthelmintic used to treat parenchymal neurocysticercosis and other helminth infections.
+Trandolapril is a prodrug of an ACE inhibitor used to treat hypertension, congestive heart failure, and to improve survival following a myocardial infarction.
+Caspofungin is an echinocandin used to treat a variety of fungal infections.
+Carteolol is a beta adrenergic antagonist used to treat arrhythmia, angina, hypertension, and glaucoma.
+Metolazone is a thiazide-like diuretic used to treat hypertension.
+Oxaliplatin is a platinum based chemotherapy agent used to treat carcinoma of the colon or rectum or stage III colon cancer.
+Foscarnet is an antiviral used to treat CMV, HIV, and HSV infections.
+Erlotinib is an EGFR tyrosine kinase inhibitor used to treat certain small cell lung cancers or advanced metastatic pancreatic cancers.
+Cyclophosphamide is a nitrogen mustard used to treat lymphomas, myelomas, leukemia, mycosis fungoides, neuroblastoma, ovarian adenocarcinoma, retinoblastoma, and breast carcinoma.
+Mephenytoin is a phenylhydantoin used to treat refractory partial epilepsy.
+Rofecoxib is a COX-2 inhibitor NSAID used to treat osteoarthritis, rheumatoid arthritis, acute pain, primary dysmenorrhea, and migraine attacks.
+Cefdinir is a third generation cephalosporin used to treat susceptible Gram negative and Gram positive bacterial infections.
+Ciprofloxacin is a second generation fluoroquinolone used to treat various susceptible bacterial infections.
+Gadoversetamide is a gadolinium compound used as a contrast agent in MRI tests of the brain, spine, and liver.
+Toremifene is a first generation nonsteroidal selective estrogen receptor modulator used to treat certain breast cancers.
+Nortriptyline is a tricyclic antidepressant used in the treatment of depression.
+Vincristine is a vinca alkaloid used to treat acute leukemia, malignant lymphoma, Hodgkin's disease, acute erythraemia, and acute panmyelosis.
+Benazepril is an ACE inhibitor prodrug used to treat hypertension.
+Amoxapine is a tricyclic antidepressant used in the treatment of neurotic or reactive depressive disorders and endogenous or psychotic depression.
+Desoximetasone is a glucocorticoid used to treat inflammatory and pruritic corticosteroid-responsive dermatoses.
+Azelaic acid is a saturated dicarboxylic acid used to treat mild to moderate acne vulgaris.
+Zafirlukast is a leukotriene receptor antagonist used for prophylaxis and chronic treatment of asthma.
+Propylthiouracil is a thiourea antithyroid agent used to treat hyperthyroidism.
+Piroxicam is an NSAID used to treat the symptoms of osteoarthritis and rheumatoid arthritis.
+Lamotrigine is a phenyltriazine antiepileptic used to treat some types of epilepsy and bipolar I disorder.
+Hydroxyzine is an antihistamine used to treat anxiety and tension associated with psychoneuroses, as well as allergic conditions such as pruritus and chronic urticaria.
+Bosentan is a dual endothelin receptor antagonist used to treat pulmonary arterial hypertension.
+Tigecycline is a glycylcycline antibiotic used to treat a number of susceptible bacterial infections.
+Doxapram is a short acting respiratory stimulant used to treat acute respiratory insufficiency in COPD patients.
+Methotrexate is an antineoplastic agent used the treatment of a wide variety of cancers as well as severe psoriasis, severe rheumatoid arthritis, and juvenile rheumatoid arthritis.
+Carbamazepine is an anticonvulsant used to treat various types of seizures and pain resulting from trigeminal neuralgia.
+Cephalexin is a first generation cephalosporin used to treat certain susceptible bacterial infections.
+Propranolol is a non-selective beta adrenergic antagonist used to treat hypertension, angina, atrial fibrillation, myocardial infarction, migraine, essential tremor, hypertrophic subaortic stenosis, and pheochromocytoma.
+Atropine is a muscarinic antagonist used to treat poisoning by muscarinic agents, including organophosphates and other drugs.
+Fenoprofen is an anti-inflammatory analgesic used to treat mild to moderate pain in addition to the signs and symptoms of rheumatoid arthritis and osteoarthritis.
+Clonidine is an alpha-2 adrenergic agonist used to treat hypertension and severe cancer pain, among other conditions, and to treat withdrawal symptoms from various substances. It is also used to aid in the diagnosis of pheochromocytoma and to prevent migraines.
+Carbenicillin is a semisynthetic penicillin.
+Valdecoxib is a COX-2 inhibitor used to treat osteoarthritis and dysmenorrhoea.
+Lactulose is a disaccharide derivative of lactose used to treat constipation and portal systemic encephalopathy.
+Voriconazole is a triazole compound used to treat fungal infections.
+Nizatidine is an H2 receptor antagonist used to treat GERD and a variety of ulcers.
+Diclofenac is an NSAID used to treat the signs and symptoms of osteoarthritis and rheumatoid arthritis.
+Doxazosin is an alpha-1 adrenergic receptor used to treat mild to moderate hypertension and urinary obstruction due to benign prostatic hyperplasia.
+Fluocinolone acetonide is a corticosteroid used to treat skin conditions, eczematous otitis externa, diabetic macular edema, and non-infectious uveitis of the posterior segment of the eye.
+Ethosuximide is an anticonvulsant used to treat petit mal seizures.
+Amiloride is a pyrizine compound used to treat hypertension and congestive heart failure.
+Oxytetracycline is a tetracycline antibiotic used to treat a wide variety of susceptible bacterial infections.
+Labetalol is an alpha and beta adrenergic antagonist used to treat hypertension, angina, and sympathetic overactivity syndrome.
+Linezolid is an oxazolidinone antibiotic used to treat infections by susceptible strains of aerobic Gram-positive bacteria.
+Ivermectin is an anti parasite medication used to treat head lice, onchocerciasis, strongyloidiasis, ascariasis, trichuriasis, and enterobiasis.
+Medroxyprogesterone acetate is a progestin used as a contraceptive and in the treatment of secondary amenorrhea, abnormal uterine bleeding, pain from endometriosis, endometrial and renal carcinomas, paraphilia in males, and GnRH-dependent precocious puberty.
+Sulindac is an NSAID used to treat osteoarthritis, rheumatoid arthritis, ankylosing spondylitis, acute subacromial bursitis or supraspinatus tendinitis, and acute gouty arthritis.
+Chloroquine is an antimalarial drug used to treat susceptible infections with P. vivax, P. malariae, P. ovale, and P. falciparum. It is also used for second line treatment for rheumatoid arthritis.
+Ethionamide is a second line antitubercular agent used to treat tuberculosis when other treatments have failed.
+Butorphanol is an opioid agonist-antagonist used to treat moderate to severe pain.
+Bisoprolol is a beta-1 adrenergic blocking agent used to prevent myocardial infarction and heart failure and to treat mild to moderate hypertension.
+Rifabutin is an antibiotic used to treat mycobacterium avium complex disease in patients with HIV.
+Demeclocycline is a tetracycline antibiotic used to treat a wide variety of susceptible bacterial infections.
+Imatinib is a tyrosine kinase inhibitor used to treat a number of leukemias, myelodysplastic/myeloproliferative disease, systemic mastocytosis, hypereosinophilic syndrome, dermatofibrosarcoma protuberans, and gastrointestinal stromal tumors.
+Triamcinolone is a glucocorticoid used to treat a wide variety of inflammatory conditions of organ systems and tissues.
+Oxandrolone is an androgenic hormone used to treat muscle loss from prolonged corticosteroid treatment and to treat bone pain associated with osteoporosis.
+Nicardipine is a calcium channel blocker used for the short-term treatment of hypertension and chronic stable angina.
+Fluphenazine is a phenothiazine used to treat patients requiring long-term neuroleptic therapy.
+Testosterone is a hormone used to treat hypogonadism, breast carcinoma in women, or the vasomotor symptoms of menopause.
+Efavirenz is a non-nucleoside reverse transcriptase inhibitor used to treat HIV infection or prevent the spread of HIV.
+Alendronic acid is a bisphosphonate drug that prevents osteoclastic bone resorption which is used for the prevention and treatment of osteoporosis.
+Clofarabine is a purine nucleoside used to treat relapsed or refractory acute lymphoblastic leukemia in patients 1 to 21 years old.
+Dexmedetomidine is an alpha-2 agonist used for sedation during various procedures.
+Prednisone is a corticosteroid used to treat inflammation or immune-mediated reactions and to treat endocrine or neoplastic diseases.
+Adenosine is a medication used in myocardial perfusion scintigraphy and to treat supraventricular tachycardia.
+Simvastatin is an HMG-CoA reductase inhibitor used to lower lipid levels and reduce the risk of cardiovascular events including myocardial infarction and stroke.
+Pemetrexed is a folate analog used to treat mesothelioma and non-small cell lung cancer.
+Nystatin is a polyene ionophore antifungal used to treat cutaneous, mucocutaneous, and gastrointestinal mycotic infections, particularly those caused by Candida species.
+Mitotane is an adrenal cortex inhibitor used to treat adrenocortical tumors and Cushing's syndrome.
+Stavudine is a dideoxynucleoside used in the treatment of HIV infection.
+Leucovorin is a folate analog used to treat the toxic effects of methotrexate and other folate antagonists, to treat megaloblastic anemia, and to provide palliative treatment of colorectal cancer.
+Dyphylline is a theophylline derivative used to treat asthma, bronchospasm, and COPD.
+Pentazocine is an analgesic used to treat moderate to severe pain.
+Latanoprost is an isopropyl ester prodrug used to treat increased intraocular pressure.
+Trazodone is a serotonin uptake inhibitor used to treat major depressive disorder.
+Mecamylamine is a nicotine antagonist used to treat moderate to severe essential hypertension and uncomplicated malignant hypertension.
+Acamprosate is a medication used to maintain alcohol abstinence in patients with alcohol dependence.
+Verapamil is a non-dihydropyridine calcium channel blocker used in the treatment of angina, arrhythmia, and hypertension.
+Nilutamide is an antineoplastic hormone used to treat prostate cancer.
+Epinephrine is a hormone and neurotransmitter used to treat allergic reactions, to restore cardiac rhythm, and to control mucosal congestion, glaucoma, and asthma.
+Sumatriptan is a serotonin receptor agonist used to treat migraines and cluster headaches.
+Cefixime is a third generation cephalosporin used to treat susceptible Gram-negative and Gram-positive bacterial infections.
+Chlorpropamide is a sulfonylurea used in the treatment of non insulin dependent diabetes mellitus.
+Aprepitant is a substance P/neurokinin 1 receptor antagonist used to treat nausea and vomiting caused by chemotherapy and surgery.
+Galantamine is a cholinesterase inhibitor used to manage mild to moderate dementia associated with Alzheimer's Disease.
+Tamoxifen is a selective estrogen receptor modulator used to treat estrogen receptor positive breast cancer, reduce the risk of invasive breast cancer following surgery, or reduce the risk of breast cancer in high risk women.
+Losartan is an angiotensin receptor blocker used to treat hypertension and diabetic nephropathy, and is used to reduce the risk of stroke.
+Thioridazine is a phenothiazine antipsychotic used to treat schizophrenia and generalized anxiety disorder.
+Moricizine is an antiarrhythmic used to treat arrhythmias.
+Amphotericin B is an antifungal used to treat fungal infections in neutropenic patients, cryptococcal meningitis in HIV infection, fungal infections, and leishmaniasis.
+Warfarin is a vitamin K antagonist used to treat venous thromboembolism, pulmonary embolism, thromboembolism with atrial fibrillation, thromboembolism with cardiac valve replacement, and thromboembolic events post myocardial infarction.
+Midazolam is a short-acting benzodiazepine with rapid onset that is commonly used in seizures, anesthesia and anxiety disorders.
+Tobramycin is an aminoglycoside antibiotic used to treat cystic fibrosis-associated bacterial, lower respiratory tract, urinary tract, eye, skin, bone, and skin structure infections.
+Trovafloxacin is an antibiotic used to treat gonorrhea and chlamydia.
+Fludrocortisone is a mineralocorticoid used to treat adrenocortical insufficiency and salt-losing adrenogenital syndrome.
+Flurazepam is a long-acting benzodiazepine with a rapid onset of action that is commonly used to treat insomnia.
+Moexipril is an angiotensin converting enzyme inhibitor prodrug used to treat hypertension.
+Phentolamine is an alpha-adrenergic blocker used to treat hypertensive episodes, diagnose pheochromocytoma, treat norepinephrine administration site reactions, and reverse soft tissue anesthesia and mydriasis.
+Fluorescein is a dye used in angiography or angioscopy of the iris and retina.
+Daunorubicin is an anthracycline aminoglycoside used to induce remission of nonlymphocytic leukemia and acute lymphocytic leukemia.
+Furosemide is a loop diuretic used to treat hypertension and edema in congestive heart failure, liver cirrhosis, renal disease, and hypertension.
+Ergotamine is an alpha-1 selective adrenergic agonist vasoconstrictor used to treat migraines with or without aura and cluster headaches.
+Tizanidine is an alpha-2 adrenergic agonist used for the short-term treatment of muscle spasticity.
+Nitrofurantoin is an antibiotic used to treat urinary tract infections.
+Eplerenone is an aldosterone receptor antagonist used to improve survival of patients with symptomatic heart failure and to reduce blood pressure.
+Amprenavir is a protease inhibitor used to treat HIV infection.
+Methazolamide is a carbonic anhydrase inhibitor used to treat open angle glaucoma and acute angle closure glaucoma.
+Naltrexone is a narcotic antagonist used in opioid overdose.
+Delavirdine is a non-nucleoside reverse transcriptase inhibitor used to treat HIV infection.
+Tamsulosin is an alpha-1A and alpha-1B adrenergic receptor antagonist used to treat benign prostatic hyperplasia, ureteral stones, prostatitis, and female voiding dysfunction.
+Sufentanil is an opioid used to induce and maintain anesthesia, to act as an analgesic in labor and delivery, and to treat severe, acute pain.
+Lamivudine is a reverse transcriptase inhibitor used to treat HIV and hepatitis B infections.
+Flurbiprofen is an NSAID used to treat the signs and symptoms of osteoarthritis and rheumatoid arthritis.
+Oxacillin is a penicillin antibiotic used to treat a number of susceptible bacterial infections.
+Apomorphine is a morphine derivative D2 dopamine agonist used to treat hypomobile "off" episodes of advanced Parkinson's disease.
+Paroxetine is a selective serotonin reuptake inhibitor used to treat major depressive disorder, panic disorder, OCD, social phobia, generalized anxiety disorder, the vasomotor symptoms of menopause, and premenstrual dysphoric disorder.
+Adefovir dipivoxil is a nucleotide analog used to treat chronic hepatitis B.
+Procaine is a local anesthetic used for anesthesia, peripheral nerve block, and spinal nerve block.
+Imiquimod is a toll-like receptor 7 agonist used to treat non hyperkeratotic, non hypertrophic actinic keratosis, basal cell carcinoma, genital or perianal warts, and condyloma acuminata.
+Nitroglycerin is a nitrate vasodilator used to treat or prevent angina, heart failure, hypertension, and anal fissures.
+Rocuronium is a vecuronium analog used to facilitate tracheal intubation and to relax skeletal muscles during surgery.
+Thiabendazole is a benzimidazole used in the treatment of strongyloides, cutaneous larva migrans, visceral larva migrans, and trichinosis infections.
+Nateglinide is a meglitinide used to treat non insulin dependent diabetes mellitus.
+Atracurium besylate is a non-depolarizing neuromuscular blocker used to facilitate endotracheal intubation and relax skeletal muscles during surgery.
+Pralidoxime is a cholinesterase reactivator used to treat organophosphate poisoning.
+Risperidone is a second-generation antipsychotic medication used to treat a number of mental health disorders including schizophrenia, bipolar mania, psychosis, or as an adjunct in severe depression.
+Riluzole is a glutamate antagonist used to treat amyotrophic lateral sclerosis.
+Mannitol is a sugar alcohol used to test for asthma, to reduce intracranial and intraocular pressure, to measure glomerular filtration rate, and to manage pulmonary symptoms associated with cystic fibrosis.
+Modafinil is a stimulant used to improve wakefulness in patients with sleep apnea, narcolepsy, or shift work disorder.
+Etodolac is an NSAID used to treat osteoarthritis and rheumatoid arthritis, as well as acute pain.
+Prilocaine is a local anesthetic used in dental procedures.
+Epinastine is an H1 receptor antagonist used to prevent itching in allergic conjunctivitis.
+Isoflurane is an inhaled general anesthetic used in surgery.
+Ethotoin is a hydantoin antiepileptic used to control tonic-clonic and complex partial seizures.
+Hexachlorophene is a chlorinated bisphenol antiseptic used as a surgical scrub and skin cleanser.
+Dolasetron is an antinauseant and antiemetic used in chemotherapy and postoperatively.
+Clopidogrel is an antiplatelet agent used to prevent blood clots in peripheral vascular disease, coronary artery disease, and cerebrovascular disease.
+Tetracycline is an antibiotic used to treat a wide variety of susceptible infections.
+Meropenem is a carbapenem antibiotic used to treat a wide variety of infections in the body.
+Irinotecan is a topoisomerase inhibitor used to treat metastatic carcinoma of the colon or rectum and pancreatic adenocarcinoma.
+Methimazole is a thionamide antithyroid agent that inhibits the actions of thyroid peroxidase, leading to a reduction in thyroid hormone synthesis and amelioration of hyperthyroidism.
+Olopatadine is a histamine H1 antagonist used to treat allergic conjunctivitis and rhinitis.
+Malathion is a parasympathomimetic organophosphate used to treat head lice.
+Etoposide is a podophyllotoxin derivative used to treat testicular and small cell lung tumors.
+Oxcarbazepine is an anti-epileptic used in the treatment of partial-onset seizures.
+Nalidixic acid is a quinolone antibiotic used to treat urinary tract infections.
+Phenelzine is a monoamine oxidase inhibitor used to treat atypical, nonendogenous, or neurotic depression.
+Propantheline is an antimuscarinic agent used to treat urinary incontinence, hyperhidrosis, as well as cramps and spasms of the stomach, intestines, and bladder.
+Estradiol is an estrogenic steroid used to treat vasomotor symptoms of vulvar and vaginal atrophy in menopause, hypoestrogenism, prevention of postmenopausal osteoporosis, treatment of breast cancer, and advanced androgen-dependent carcinoma of the prostate.
+Mefenamic acid is an NSAID used to treat mild to moderate pain for no more than a week, and primary dysmenorrhea.
+Naproxen is an NSAID used to treat rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, polyarticular juvenile idiopathic arthritis, tendinitis, bursitis, acute gout, primary dysmenorrhea, and mild to moderate pain.
+Perindopril is an ACE inhibitor prodrug used to treat hypertension, mild to moderate congestive heart failure, and to reduce cardiovascular risk in patients with hypertension or post-myocardial infarction.
+Primidone is an antiepileptic used to treat grand mal, psychomotor, and focal epileptic seizures.
+Sulfasalazine is a salicylate used to treat Crohn's disease, ulcerative colitis, and rheumatoid arthritis.
+Candesartan cilexetil is an angiotensin receptor blocker used to treat hypertension, systolic hypertension, left ventricular hypertrophy, and delay progression of diabetic nephropathy.
+Tazarotene is an acetylenic retinoid used to treat fine wrinkles, mottled pigmentation of the skin, acne vulgaris, and plaque psoriasis.
+Fenoldopam is a dopamine D1 receptor agonist used for the short term management of hypertension.
+Alfentanil is an opioid agonist used to induce and maintain anesthesia, as well as an analgesic.
+Dicyclomine is an antimuscarinic agent used to treat IBS.
+Pentoxifylline is a methylxanthine derivative used to treat intermittent claudication caused by chronic occlusive arterial disease of the limbs.
+Indapamide is a thiazide diuretic used to treat hypertension as well as edema due to congestive heart failure.
+Tropicamide is a muscarinic receptor antagonist used to induce mydriasis and cycloplegia for diagnostic procedures.
+Biperiden is a muscarinic receptor antagonist used to treat parkinsonism and control extrapyramidal side effects of neuroleptic drugs.
+Ribavirin is a guanosine nucleoside used to treat some forms of Hepatitis C.
+Fentanyl is an opioid analgesic used in anesthesia, for breakthrough cancer pain, or round the clock pain management.
+Meloxicam is an NSAID used to treat osteoarthritis in adults, rheumatoid arthritis in adults, and juvenile rheumatoid arthritis in pediatrics.
+Propofol is a medication used in general anesthesia and for sedation.
+Acetazolamide is a carbonic anhydrase inhibitor used to treat edema from heart failure or medications, certain types of epilepsy, and glaucoma.
+Tadalafil is a phosphodiesterase 5 inhibitor used to treat erectile dysfunction, benign prostatic hyperplasia, and pulmonary arterial hypertension.
+Disulfiram is a carbamate derivative used to treat alcohol addiction.
+Natamycin is a macrolide antifungal used to treat fungal infections of the eye.
+Cinoxacin is a synthetic antibacterial agent with in vitro activity against many gram-negative aerobic bacteria, particularly strains of the Enterobacteriaceae family.
+Fosfomycin is a broad spectrum antibiotic used to treat uncomplicated urinary tract infections.
+Diazepam is a long-acting benzodiazepine with rapid onset commonly used to treat panic disorders, severe anxiety, alcohol withdrawal, and seizures.
+Trifluoperazine is a phenothiazine used to treat depression, anxiety, and agitation.
+Cefaclor is a second generation cephalosporin used to treat a wide variety of infections in the body.
+Mifepristone is a cortisol receptor blocker used to treat Cushing's syndrome, and to terminate pregnancies up to 70 days gestation.
+Brompheniramine is a histamine H1 antagonist used to treat coughs, upper respiratory symptoms, and nasal congestion associated with allergies and the common cold.
+Loperamide is a long acting antidiarrheal used to control nonspecific diarrhea and chronic diarrhea caused by inflammatory bowel disease, or gastroenteritis.
+Tolazamide is a sulfonylurea used in the treatment of non insulin dependent diabetes mellitus.
+Dobutamine is a beta-1 agonist used to treat cardiac decompensation in patients with organic heart disease or from cardiac surgery.
+Oxazepam is an intermediate-acting benzodiazepine with slow onset commonly used to treat panic disorders, severe anxiety, alcohol withdrawals, and insomnia.
+Donepezil is an acetylcholinesterase inhibitor used to treat the behavioral and cognitive effects of Alzheimer's Disease and other types of dementia.
+Nalbuphine is an opioid agonist-antagonist used to treat pain, for pre and postoperative analgesia, and for analgesia in labor and delivery.
+Clofazimine is a riminophenazine antimycobacterial used to treat leprosy.
+Perphenazine is a phenothiazine used to treat schizophrenia as well as nausea and vomiting.
+Dacarbazine is an antineoplastic agent used to treat malignant melanoma and Hodgkin's disease.
+Temozolomide is an alkylating agent used to treat glioblastoma multiforme and refractory anaplastic astrocytoma.
+Terbinafine is an allylamine antifungal used to treat dermatophyte infections of toenails and fingernails as well as other fungal skin infections.
+Prednisolone is a glucocorticoid used to treat adrenocortical insufficiency, inflammatory conditions, and some cancers.
+Diflunisal is an NSAID used to treat mild to moderate pain, inflammation, osteoarthritis, and rheumatoid arthritis.
+Vardenafil is a phosphodiesterase 5 inhibitor used to treat erectile dysfunction.
+Ranitidine is a histamine H2 antagonist used to treat duodenal ulcers, Zollinger-Ellison syndrome, gastric ulcers, GERD, and erosive esophagitis.
+Tacrolimus is a calcineurin inhibitor used to prevent organ transplant rejection and to treat moderate to severe atopic dermatitis.
+Benzonatate is a non-narcotic oral antitussive drug used to suppress coughing.
+Dorzolamide is a carbonic anhydrase inhibitor used to treat high intraocular pressure in ocular hypertension and open angle glaucoma.
+Suprofen is an NSAID used to prevent pupil constriction in ocular surgery.
+Terbutaline is a beta-2 adrenergic agonist used as a bronchodilator and to prevent premature labor.
+Conivaptan is an antidiuretic hormone inhibitor used to raise serum sodium levels.
+Guaifenesin is an expectorant commonly found in OTC products for the symptomatic relief from congested chests and coughs associated with cold, bronchitis, and/or other breathing illnesses.
+Eprosartan is an ARB used to treat hypertension, diabetic nephropathy, and congestive heart failure.
+Chlorhexidine is an antiseptic used to sterilize for surgeries and in healthcare practice, to reduce pocket depth in periodontitis, and to treat gingivitis.
+Emtricitabine is a nucleoside reverse transcriptase inhibitor used for the treatment and prophylaxis of HIV.
+Quinapril is an ACE inhibitor prodrug used to treat hypertension, congestive heart failure, and slow rate of progression of renal disease.
+Isosorbide dinitrate is a vasodilator used to treat angina in coronary artery disease.
+Bumetanide is a sulfamyl diuretic used to treat edema in congestive heart failure, hepatic and renal disease, and nephrotic syndrome.
+Granisetron is a 5HT3 antagonist used to treat nausea and vomiting in cancer therapy and postoperatively.
+Rimexolone is a glucocorticoid used to treat inflammation of the eye.
+Triazolam is a benzodiazepine used for short term treatment of insomnia.
+Dalmacol, Gattex, Healing Waters Aloe Cucumber Hand Sanitizer, Healing Waters Cotton Blossom Hand Sanitizer, Healing Waters Lemon Verbena Hand Sanitizer, Healing Waters Peach Nectarine Hand Sanitizer, Lupaneta Pack 1-month, Viva-drops Lubricating Eye Drops
+Remifentanil is an opioid analgesic used in anesthesia.
+Didanosine is a reverse transcriptase inhibitor used to treat HIV.
+Etacrynic acid is a diuretic used to treat ascites and edema in congestive heart failure, liver cirrhosis, and renal disease.
+Ondansetron is a serotonin 5-HT3 receptor antagonist used to prevent nausea and vomiting in cancer chemotherapy and postoperatively.
+Bimatoprost is a prostaglandin analog used to treat hypotrichosis of the eyelashes and intraocular pressure in open angle glaucoma or ocular hypertension.
+Tiagabine is an antiepileptic used to treat partial seizures.
+Cocaine is an ester local anesthetic used during diagnostic procedures and surgeries in or through the nasal cavities.
+Quinidine is a medication used to restore normal sinus rhythm, treat atrial fibrillation and flutter, and treat ventricular arrhythmias.
+Zonisamide is a sulfonamide anticonvulsant used to treat partial seizures.
+Paricalcitol is a vitamin D analog used to treat hyperparathyroidism associated with stage 3 or greater chronic kidney disease.
+Tinidazole is a nitroimidazole used to treat trichomoniasis, giardiasis, amebiasis, and bacterial vaginosis.
+Repaglinide is a antihyperglycemic used to improve glycemic control in diabetes.
+Amantadine is a medication used to treat dyskinesia in Parkinson's patients receiving levodopa, as well as extrapyramidal side effects of medications.
+Metronidazole is a nitroimidazole used to treat trichomoniasis, amebiasis, inflammatory lesions of rosacea, and bacterial infections, as well as prevent postoperative infections.
+Almotriptan is a 5-HT1B/1D receptor agonist used to treat migraines.
+Spectinomycin is an aminocyclitol antibiotic used to treat susceptible strains of Neisseria gonorrhoeae.
+Ketotifen is a histamine H1 receptor blocker and mast cell stabilizer used to treat mild atopic asthma and allergic conjunctivitis.
+Buprenorphine is a partial opioid agonist used for management of severe pain that is not responsive to alternative treatments. Also used for maintenance treatment of opioid addiction.
+Cyclobenzaprine is a skeletal muscle relaxant that works on the brainstem to treat muscle spasms of local origin.
+Phenoxybenzamine is an alpha adrenergic antagonist used to treat pheochromocytoma and episodes of hypertension and sweating.
+Famotidine is a histamine H2 receptor antagonist used to treat duodenal ulcers, benign gastric ulcers, GERD, and Zollinger-Ellison syndrome.
+Misoprostol is a prostaglandin E1 analogue used to reduce the risk of NSAID-induced gastric ulcers and to terminate pregnancies.
+Tipranavir is a protease inhibitor used to treat HIV-1 resistant to more than 1 protease inhibitor.
+Mesoridazine is a phenothiazine antipsychotic used to treat schizophrenia, organic brain disorders, alcoholism, and psychoneuroses.
+Diethylpropion is an appetite suppressant used for the short term treatment of exogenous obesity in addition to calorie restriction.
+Salmeterol is a long-acting beta-2 adrenergic receptor agonist used to treat asthma and COPD.
+Felbamate is an anticonvulsant used to treat severe epilepsy.
+Fexofenadine is a selective H1-antagonist for the symptomatic treatment of seasonal allergic rhinitis and chronic idiopathic urticaria.
+Isoniazid is an antibiotic used to treat mycobacterial infections; most commonly use in combination with other antimycobacterial agents for the treatment of active or latent tuberculosis.
+Naratriptan is a 5-HT1B/1D receptor agonist used to treat migraines.
+Rizatriptan is a triptan used to treat migraines with or without aura.
+Carboplatin is a alkylating agent used to treat advanced ovarian cancer.
+Methylprednisolone is a corticosteroid used to treat inflammation or immune reactions across a variety of organ systems, endocrine conditions, and neoplastic diseases.
+Pindolol is a beta adrenoceptor antagonist used to treat hypertension, edema, ventricular tachycardias, and atrial fibrillation.
+Mepivacaine is a local anesthetic used for local or regional analgesia or anesthesia.
+Zaleplon is a sedative used for short term treatment of insomnia in adults.
+Bromfenac is an NSAID used to treat postoperative pain and inflammation of the eye.
+Apraclonidine is an alpha adrenergic agonist used to treat raised intraocular pressure.
+Telmisartan is an ARB used to treat hypertension, diabetic nephropathy, and congestive heart failure.
+Desloratadine is a second generation tricyclic antihistamine used to treat seasonal and non seasonal allergic rhinitis, pruritus, and urticaria.
+Methyldopa is a centrally-acting alpha-2 adrenergic agonist used to manage hypertension alone or in combination with hydrochlorothiazide, and to treat hypertensive crises.
+Alosetron is a 5-HT3 antagonist used to treat diarrhea-predominant IBS.
+Azelastine is a histamine H1-receptor antagonist used intranasally to treat allergic and vasomotor rhinitis and in an ophthalmic solution to treat allergic conjunctivitis.
+Ezetimibe is a cholesterol absorption inhibitor used to lower total cholesterol, LDL-C, Apo-B, and non-HDL-C in primary hyperlipidemia and familial cholesterolemia.
+Dipyridamole is a phosphodiesterase inhibitor used to prevent postoperative thromboembolic events.
+Telithromycin is an ketolide used to treat community acquired pneumonia of mild to moderate severity.
+Lomefloxacin is a fluoroquinolone used to prevent and treat a wide variety of infections in the body.
+Cyclopentolate is an anticholinergic used to cause mydriasis and cycloplegia for diagnostic testing.
+Ramelteon is a melatonin receptor agonist used to treat insomnia.
+Physostigmine is a cholinesterase inhibitor used to treat glaucoma and anticholinergic toxicity.
+Formoterol is an inhaled long-acting beta2-adrenergic receptor agonist used as a bronchodilator in the management of asthma and COPD.
+Glycopyrronium is an anticholinergic agent used to treat hyperhidrosis, severe drooling, COPD, used with other medications to treat ulcers, and used in anesthesia.
+Dopamine is a catecholamine neurotransmitter used to treat hemodynamic imbalances, poor perfusion of vital organs, low cardiac output, and hypotension.
+Rivastigmine is a cholinesterase inhibitor used to treat mild to moderate dementia in Alzheimer's and Parkinson's.
+Exemestane is an aromatase inhibitor used to treat breast cancer in postmenopausal women after treatment with tamoxifen.
+Oxaprozin is an NSAID used to treat osteoarthritis, rheumatoid arthritis, and juvenile rheumatoid arthritis.
+Azathioprine is an immunosuppressant used to prevent renal transplant rejection, treat rheumatoid arthritis, Crohn's disease, and ulcerative colitis.
+Neomycin is an aminoglycoside antibiotic agent used orally and topically to treat a wide variety of infections in the body.
+Gabapentin is an anticonvulsant medication used in the management of peripheral neuropathic pains, postherpetic neuralgia, and partial-onset seizures.
+Doxorubicin is a medication used to treat various cancers, including AIDS-associated Kaposi's Sarcoma and metastatic cancers.
+Frovatriptan is a 5-HT1B/1D receptor agonist used to treat migraines.
+Hydrochlorothiazide is a thiazide diuretic used to treat edema associated with a number of conditions, and hypertension.
+Ganciclovir is a DNA polymerase inhibitor used to treat cytomegalovirus and herpetic keratitis of the eye.
+Hydroxyurea is an antimetabolite used to treat sickle cell anemia crisis, resistant chronic myeloid leukemia, and Locally advanced squamous cell carcinomas of the head and neck (excluding the lip).
+Letrozole is an aromatase inhibitor used to treat breast cancer in postmenopausal women.
+Busulfan is an alkylating agent used to treat chronic myelogenous leukemia.
+Ketoprofen is an NSAID used to treat rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, dysmenorrhea, mild to moderate muscle pain, postoperative pain, and postpartum pain.
+Metyrapone is a steroid 11-beta-monooxygenase inhibitor used to test hypothalamic-pituitary ACTH function.
+Cinacalcet is a calcium sensing receptor agonist used to treat secondary hyperparathyroidism in chronic kidney disease and hypercalcemia in parathyroid carcinoma.
+Clobetasol propionate is a corticosteroid used to treat corticosteroid-responsive dermatoses and plaque psoriasis.
+Balsalazide is an aminosalicylate used to treat ulcerative colitis.
+Minocycline is a tetracycline analog used to treat a wide variety of infections in the body.
+Guanfacine is an alpha-2A adrenergic receptor agonist used to treat ADHD.
+Bethanechol is a muscarinic agonist used to treat postoperative and postpartum nonobstructive functional urinary retention and neurogenic atony of the bladder with retention.
+Felodipine is a calcium channel blocker used to treat hypertension.
+Mycophenolic acid is an immunosuppressant used to prevent organ transplant rejections.
+Ketoconazole is a broad spectrum antifungal used to treat seborrheic dermatitis and fungal skin infections.
+Irbesartan is an angiotensin receptor blocker used to treat hypertension, delay progression of diabetic nephropathy, and treat congestive heart failure.
+Topotecan is an antineoplastic agent used to treat ovarian cancer, small cell lung cancer, or cervical cancer.
+Probenecid is a medication used to treat gouty arthritis, tophaceous gout, and hyperuricemia.
+Procainamide is a medication used to treat life threatening ventricular arrhythmias.
+Tolterodine is a muscarinic receptor antagonist used to treat overactive bladder with urinary incontinence, urgency, and frequency.
+Selegiline is a monoamine oxidase inhibitor used to treat major depressive disorder and Parkinson's.
+Fenofibrate is a peroxisome proliferator receptor alpha activator used to lower LDL-C, total-C, triglycerides, and Apo B, while increasing HDL-C in hypercholesterolemia, dyslipidemia, and hypertriglyceridemia.
+Thalidomide is a medication used to treat cancers, particularly newly diagnosed multiple myeloma, and erythema nodosum leprosum.
+Melphalan is an alkylating agent used to treat multiple myeloma, ovarian carcinoma, uveal melanoma with unresectable hepatic metastases, and for high-dose conditioning before hematopoietic stem cell transplant in patients.
+Memantine is an NMDA receptor antagonist used to treat moderate to severe dementia in Alzheimer's.
+Gatifloxacin is a fourth generation fluoroquinolone used to treat a wide variety of infections in the body.
+Lubiprostone is a prostaglandin derivative used to treat constipation caused by irritable bowel syndrome and opioid-use.
+Fluocinonide is a high potency corticosteroid commonly used topically for a number of inflammatory skin conditions.
+Abacavir is an antiviral nucleoside reverse transcriptase inhibitor used in combination with other antiretrovirals for the treatment of HIV.
+Ibuprofen is an NSAID and non-selective COX inhibitor used to treat mild-moderate pain, fever, and inflammation.
+Praziquantel is an anthelmintic medication used to treat parasitic worm infections such as schistosomiasis, clonorchiasis, and opisthorchiasis
+Norfloxacin is a broad-spectrum fluoroquinolone antibiotic with variable activity against gram-positive and gram-negative bacteria. Typically reserved for the treatment of UTIs due to accumulation in the urine.
+Amoxicillin is a penicillin derivative used for the treatment of infections caused by gram-positive bacteria, in particular streptococcal bacteria causing upper respiratory tract infections.
+Oxybutynin is an antimuscarinic agent that reduces detrusor muscle activity, relaxing the bladder and preventing the urge to void.
+Isoprenaline is a catecholamine non-selective beta-adrenergic agonist typically used to treat bradycardia and heart block.
+Glipizide is a sulfonylurea medication used in Type 2 Diabetes to sensitize pancreatic beta cells and stimulate insulin release.
+Clonazepam is a long-acting benzodiazepine with intermediate onset commonly used to treat panic disorders, severe anxiety, and seizures.
+Promethazine is a first-generation antihistamine used for the treatment of allergic conditions, nausea and vomiting, and motion sickness.
+Atazanavir is an antiviral protease inhibitor used in combination with other antiretrovirals for the treatment of HIV.
+Fludarabine is a purine analog antimetabolite that inhibits DNA synthesis.
+Diphenhydramine is a H1 receptor antihistamine used in the treatment of seasonal allergies, and various allergic reactions including sneezing, runny nose, itchy/watery eyes, itching of nose or throat, pruritus, urticaria, insect bites/stings, and allergic rashes.
+Atorvastatin is an HMG-CoA reductase inhibitor used to lower lipid levels and reduce the risk of cardiovascular disease including myocardial infarction and stroke.
+Tegaserod is a serotonin-4 (5-HT4) receptor agonist indicated for the treatment of constipation predominant irritable bowel syndrome (IBS-C) specifically in women under the age of 65. There is currently no safety or efficacy data for use of tegaserol in men.
+Vigabatrin is an irreversible GABA transaminase inhibitor used as an adjunct therapy to treat refractory complex partial seizures in patients ≥2 years unresponsive to alternatives. May also be used as monotherapy to treat infantile spasms in infants 1 month to 2 years.
+Streptomycin is an aminoglycoside antibiotic indicated to treat multi-drug resistant mycobacterium tuberculosis and various non-tuberculosis infections.
+Orlistat is a reversible inhibitor of gastrointestinal lipases indicated for weight loss and weight maintenance.
+Emedastine is a selective H1-receptor antagonist used topically to manage symptoms of allergic conjunctivitis.
+Pilocarpine is a muscarinic agonist used to treat dry mouth and various ophthalmic conditions, such as presbyopia, increased intraocular pressure, and angle-closure glaucoma.
+Benzocaine is a topical local anesthetic used for the temporary relief of pain and itching associated with minor burns, sunburn, scrapes and insect bites or minor skin irritations.
+Primaquine is an antimalarial indicated to prevent relapse of vivax malaria.
+Iloprost is a synthetic prostacyclin analog used to treat pulmonary arterial hypertension (PAH) and frostbites.
+Fluvastatin is an HMG-CoA reductase inhibitor used to lower lipid levels and reduce the risk of cardiovascular disease including myocardial infarction and stroke.
+Leflunomide is a pyrimidine synthesis inhibitor indicated to treat rheumatoid arthritis.
+Rosuvastatin is an HMG-CoA reductase inhibitor used to lower lipid levels and reduce the risk of cardiovascular disease including myocardial infarction and stroke.
+Pimozide is an antipsychotic used to manage debilitating motor and phonic tics in patients with Tourette's Disorder.
+Capecitabine is a nucleoside metabolic inhibitor indicated to treat different gastrointestinal, including pancreatic cancer, and breast cancer.
+Sertraline is a selective serotonin reuptake inhibitor (SSRI) indicated to treat major depressive disorder, social anxiety disorder and many other psychiatric conditions.
+Sibutramine is a norepinephrine, serotonin and dopamine reuptake inhibitor indicated to assist with weight loss in obesity.
+Levocabastine is a selective histamine H1 receptor antagonist indicated for the management of seasonal allergic conjunctivitis symptoms.
+Miconazole is an azole antifungal with broad-spectrum activity used to treat fungal infections affecting the vagina, mouth and skin, including candidiasis.
+Cefuroxime is a cephalosporin indicated for the treatment of a variety of infections including acute bacterial otitis media, several upper respiratory tract infections, skin infections, urinary tract infections, gonorrhea, early Lyme disease, and impetigo.
+Papaverine is an alkaloid used to treat many types of smooth muscle spasms such as "vascular spasms" associated with acute myocardial infarction and angina pectoris, as well as "visceral spasms".
+Chlorpheniramine is a histamine-H1 receptor antagonist indicated for the management of symptoms associated with upper respiratory allergies.
+Nifedipine is a dihydropyridine calcium channel blocker indicated for the management of several subtypes of angina pectoris, and hypertension.
+Atovaquone is an antimicrobial indicated for the prevention and treatment of Pneumocystis jirovecii pneumonia (PCP) and for the prevention and treatment of Plasmodium falciparum malaria.
+Amiodarone is a class III antiarrhythmic indicated for the treatment of recurrent hemodynamically unstable ventricular tachycardia and recurrent ventricular fibrillation.
+Diazoxide is a non diuretic benzothiadiazine indicated for the management of hypoglycemia in patients who produce an excess of insulin caused by a variety of conditions.
+Gliclazide is a sulfonylurea used to treat hyperglycemia in patients with type 2 diabetes mellitus.
+Dutasteride is an antiandrogenic compound that is used for the treatment of symptomatic benign prostatic hyperplasia (BPH) in adult males by inhibiting 5-alpha reductase.
+Econazole is a topical antifungal used to treat tinea pedis, tinea cruris, tinea corporis, cutaneous candidiasis and tinea versicolor.
+Bicalutamide is an androgen receptor inhibitor used to treat Stage D2 metastatic carcinoma of the prostate.
+Rabeprazole is a proton pump inhibitor used to help gastrointestinal ulcers heal, to treat symptoms of gastroesophageal reflux disease (GERD), to eradicate Helicobacter pylori, and to treat hypersecretory conditions such as Zollinger-Ellison Syndrome.
+Prednicarbate is a medium potency topical corticosteroid used to manage pruritus and inflammation associated with responsive skin conditions.
+Pioglitazone is a thiazolidinedione used adjunctively with diet and exercise to normalize glycemic levels in adults with type 2 diabetes mellitus.
+Carvedilol is a non selective beta-adrenergic antagonist used to treat mild to severe chronic heart failure, hypertension, and left ventricular dysfunction following myocardial infarction in clinically stable patients.
+Cefadroxil is a cephalosporin antibiotic used in the treatment of various bacterial infections, such as urinary tract infections, skin and skin structure infections, and tonsillitis.
+Micafungin is an antifungal agent used for the treatment of candidemia, acute disseminated candidiasis, and certain other invasive Candida infections, and for the prophylaxis of Candida infections during stem cell transplantation.
+Doxepin is a psychotropic agent used for the treatment of depression, anxiety, manic-depressive disorder, and insomnia.
+Amifostine is a cytoprotective adjuvant used for reduction in the cumulative renal toxicity in patients with ovarian cancer and moderate to severe xerostomia in patients undergoing post-operative radiation treatment for head and neck cancer.
+Flavoxate is a muscarinic antagonist and spasmolytic used for the symptomatic relief of conditions associated with lack of muscle control in the bladder, such as dysuria, urgency, and nocturia.
+Nefazodone is an antidepressant used in the treatment of depression.
+Cefprozil is a cephalosporin antibiotic used in the treatment of various bacterial infections, such as pharyngitis, tonsillitis, otitis media, and uncomplicated skin infections.
+Desipramine is a tricyclic antidepressant used in the treatment of depression.
+Bupropion is a norepinephrine and dopamine reuptake inhibitor used in the treatment of major depressive disorder (MDD), seasonal affective disorder (SAD), and as an aid to smoking cessation.
+Trimetrexate is a folate antagonist used for the treatment of moderate-to-severe Pneumocystis carinii pneumonia (PCP) in immunocompromised patients as an alternative therapy in combination with leucovorin.
+Bretylium is a norepinephrine release inhibitor used for the prophylaxis and therapy of ventricular fibrillation, as well as the treatment of life-threatening ventricular arrhythmias.
+Halothane is a general inhalation anesthetic used for the induction and maintenance of general anesthesia.
+Chloroprocaine is a local anesthetic agent indicated for intrathecal injection in adults for the production of subarachnoid block, spinal anesthesia, or ocular surface anesthesia.
+Terazosin is an alpha-1 adrenergic antagonist used in the treatment of symptomatic benign prostatic hyperplasia and management of hypertension.
+Ofloxacin is an antibacterial agent used for the treatment of bacterial infections in many parts of the body, including the respiratory tract, kidney, skin, soft tissue, and urinary tract.
+Itraconazole is a triazole antifungal agent used to treat various fungal infections, such as blastomycosis and onychomycosis.
+Procarbazine is an antineoplastic agent indicated for the treatment of stage III and stage IV Hodgkin's disease in combination with other chemotherapeutic agents.
+Arsenic trioxide is a chemotherapeutic agent used in the treatment of refractory or relapsed acute promyelocytic leukemia in patients with prior retinoid and anthracycline chemotherapy.
+Orphenadrine is a muscarinic antagonist used as an adjunct for the symptomatic relief of musculoskeletal pain and discomfort.
+Phenobarbital is a long-lasting barbiturate and anticonvulsant used in the treatment of all types of seizures, except for absent seizures.
+Idarubicin is an anthracycline antineoplastic agent used to treat acute myeloid leukemia (AML) in adults.
+Ifosfamide is an alkylating and immunosuppressive agent used in chemotherapy for the treatment of cancers, including testicular cancer, ovarian cancer, cervical cancer, osteocarcinoma, bladder cancer, small cell lung cancer, and non-Hodgkin's lymphoma.
+Propafenone is a Class 1C antiarrhythmic agent used in the management of paroxysmal atrial fibrillation/flutter and ventricular arrhythmias.
+Naloxone is an opioid receptor antagonist used to rapidly reverse an opioid overdose. Also included in some drug formulations as an abuse deterrent to prevent injection.
+Domperidone is a dopamine receptor antagonist used as a peristaltic stimulant and anti-emetic agent for dyspepsia, indigestion, epigastric pain, nausea, and vomiting.
+Fluoxymesterone is a synthetic androgenic anabolic steroid that used in the treatment of hypogonadism and delayed puberty in males, as well as breast neoplasms in women.
+Pergolide is a long-acting dopamine agonist that is uncommonly used for the management of Parkinson's disease, due to the risk for cardiac valvulopathy.
+Ciclopirox is a broad-spectrum topical antifungal agent used to treat mild to moderate onychomycosis of fingernails and toenails in immunocompetent patients.
+Desflurane is a general inhalation anesthetic for inpatient and outpatient surgery in adults.
+Clindamycin is a lincosamide antibiotic used to treat serious infections caused by susceptible anaerobic, streptococcal, staphylococcal, and pneumococcal bacteria.
+Acebutolol is a selective β1-receptor antagonist used for the management of hypertension and ventricular premature beats in adults.
+Brinzolamide is a carbonic anhydrase inhibitor used for the reduction of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+Flecainide is a class Ic antiarrhythmic agent used to manage atrial fibrillation and paroxysmal supraventricular tachycardias (PSVT).
+Estramustine is an antineoplastic agent used for the management of metastatic and/or progressive prostate cancer in palliative setting.
+Zopiclone is a nonbenzodiazepine hypnotic used for the short-term management of insomnia.
+Bromocriptine is a dopamine D2 receptor agonist used for the treatment of galactorrhea due to hyperprolactinemia and other prolactin-related conditions, as well as in early Parkinsonian Syndrome.
+Rifapentine is an antibiotic agent used in the treatment of pulmonary tuberculosis.
+Nadolol is a non-selective beta-adrenergic antagonist used for the management of arrhythmias, angina pectoris, and hypertension.
+Mitoxantrone is a chemotherapeutic agent used for the treatment of secondary progressive, progressive relapsing, or worsening relapsing-remitting multiple sclerosis.
+Flumazenil is a benzodiazepine antagonist that is used for the complete or partial reversal of the sedative effects caused by benzodiazepines in various clinical settings, such as induced general anesthesia for diagnostic and therapeutic procedures.
+Lomustine is an alkylating agent used as a part of chemotherapeutic regimens for the treatment of primary and metastatic brain tumors as well as refractory or relapsed Hodgkin's disease in addition to surgical and/or radiotherapeutic treatments.
+Levobunolol is a beta-adrenergic antagonist used for the reduction of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+Clarithromycin is a macrolide antibiotic used for the treatment of a wide variety of bacterial infections such as acute otitis, pharyngitis, tonsillitis, respiratory tract infections, uncomplicated skin infections, and helicobacter pylori infection.
+Ceftriaxone is a broad-spectrum cephalosporin antibiotic used for the treatment of bacterial infections in various locations, such as in the respiratory tract, skin, soft tissue, and urinary tract.
+Metipranolol is a beta-adrenergic antagonist used for the reduction of elevated intraocular pressure in patients with ocular hypertension or open-angle glaucoma.
+Estazolam is a benzodiazepine used for the short-term management of insomnia.
+Finasteride is an antiandrogenic compound that is used for the treatment of symptomatic benign prostatic hyperplasia (BPH) and male pattern hair loss in adult males by inhibiting Type II 5-alpha reductase.
+Anastrozole is a competitive, selective, non-steroidal aromatase inhibitor used as adjuvant therapy for the treatment of hormone receptor-positive breast cancer in postmenopausal women.
+Halofantrine is an antimalarial used for the treatment of severe malaria.
+Dantrolene is a direct-acting skeletal muscle relaxant used for the treatment of management of the fulminant hypermetabolism of skeletal muscle leading to malignant hyperthermia crisis.
+Rifaximin is a rifamycin-based non-systemic antibiotic used for the treatment of gastrointestinal bacterial infections, such as traveler's diarrhea and irritable bowel syndrome, and reduction of overt hepatic encephalopathy recurrence in adults.
+Ketamine is a rapid-acting general anesthetic and NMDA receptor antagonist used for induction of anesthesia diagnostic and surgical procedures typically in combination with a muscle relaxant.
+Budesonide is a corticosteroid used to treat Crohn's disease, asthma, COPD, hay fever and allergies, and ulcerative colitis.
+Aminophylline is a bronchodilator consisting of theophylline that is used for the treatment of bronchospasm due to asthma, emphysema and chronic bronchitis.
+Quetiapine is an atypical antipsychotic agent used for the management of bipolar disorder, schizophrenia, and major depressive disorder.
+Mivacurium is a short-acting non-depolarizing neuromuscular blocking agent used to induce anesthesia during intubation and promote skeletal muscle relaxation during surgery or mechanical ventilation.
+Paclitaxel is a taxoid chemotherapeutic agent used as first-line and subsequent therapy for the treatment of advanced carcinoma of the ovary, and other various cancers including breast and lung cancer.
+Pemoline is a central nervous system (CNS) stimulant that was previously used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy.
+Saquinavir is an HIV protease inhibitor used in combination with other antiretroviral agents for the treatment of HIV-1 with advanced immunodeficiency.
+Metoclopramide is an antiemetic agent and dopamine D2 antagonist used in the treatment of gastroesophageal reflux disease, prevention of nausea and vomiting, and to stimulate gastric emptying.
+Dexamethasone is a glucocorticoid available in various modes of administration that is used for the treatment of various inflammatory conditions, including bronchial asthma, as well as endocrine and rheumatic disorders.
+Sevoflurane is a inhalation anaesthetic agent used for induction and maintenance of general anesthesia during surgical procedures.
+Aripiprazole is an atypical antipsychotic used in the treatment of a wide variety of mood and psychotic disorders, such as schizophrenia, bipolar I, major depressive disorder, irritability associated with autism, and Tourette's syndrome.
+Gemfibrozil is a lipid regulator that is used in the reduction of serum triglyceride levels in high-risk patients with hyperlipidemia.
+Clomipramine is a tricyclic antidepressant used in the treatment of obsessive-compulsive disorder and disorders with an obsessive-compulsive component, such as depression, schizophrenia, and Tourette’s disorder.
+Isocarboxazid is a monoamine oxidase inhibitor used to treat enduring and debilitating symptoms of depression following inadequate clinical response to other antidepressant drugs.
+Docetaxel is a taxoid antineoplastic agent used in the treatment of various cancers, such as locally advanced or metastatic breast cancer, metastatic prostate cancer, gastric adenocarcinoma, and head and neck cancer.
+Iodixanol is a contrast agent used during coronary angiography, particularly in patients with renal dysfunction.
+Olsalazine is an anti-inflammatory aminosalicylate used in the treatment of inflammatory bowel disease and ulcerative colitis.
+Dasatinib is a tyrosine kinase inhibitor used for the treatment of Philadelphia chromosome-positive acute lymphoblastic leukemia or chronic myeloid leukemia.
+Aliskiren is a direct renin inhibitor used to manage hypertension.
+Desonide is a topical corticosteroid used for the symptomatic treatment of inflammatory and pruritic manifestations of corticosteroid responsive dermatoses.
+Sitagliptin is an oral dipeptidyl peptidase-4 (DPP-4) inhibitor used for the management of type 2 diabetes mellitus.
+Posaconazole is a triazole antifungal drug that is used to treat invasive infections by Candida species and Aspergillus species in severely immunocompromised patients.
+Darunavir is a HIV protease inhibitor used in the treatment of human immunodeficiency virus (HIV) infection in patients with history of prior antiretroviral therapies.
+Sunitinib is a receptor tyrosine kinase inhibitor and chemotherapeutic agent used for the treatment of renal cell carcinoma (RCC) and imatinib-resistant gastrointestinal stromal tumor (GIST).
+Varenicline is a partial agonist at nicotinic acetylcholine receptors used as an aid in smoking cessation.
+Hydralazine is an antihypertensive agent used for the management of essential hypertension or severe hypertension associated with conditions requiring immediate action, heart failure, and pre-eclampsia or eclampsia .
+Nelarabine is a purine nucleoside analog and antineoplastic agent used for the treatment of with acute T-cell lymphoblastic leukemia and T-cell lymphoblastic lymphoma with inadequate clinical response to prior chemotherapeutic treatments.
+Pirbuterol is a beta-2 adrenergic agonist and bronchodilator used for the symptomatic treatment of asthma.
+Fosamprenavir is an antiretroviral agent used for the treatment and postexposure prophylaxis of human immunodeficiency virus (HIV-1) infection.
+Fosphenytoin is an antiepileptic agent used for the management of generalized convulsive status epilepticus and prevention and treatment of seizures occurring during neurosurgery.
+Polythiazide is a thiazide diuretic used in the management of hypertension and treatment of edema.
+Cefazolin is a broad-spectrum cephalosporin antibiotic mainly used for the treatment of skin bacterial infections and other moderate to severe bacterial infections in the lung, bone, joint, stomach, blood, heart valve, and urinary tract.
+Cefoperazone is a broad-spectrum cephalosporin antibiotic used for the treatment of bacterial infections in various locations, including the respiratory tract, abdomen, skin, and female genital tracts.
+Cefotetan is an antibiotic medication used for the prophylaxis and treatment of various bacterial infections, including urinary tract infections, bone and joint infection, and lower respiratory tract infections.
+Cefoxitin is a semi-synthetic, broad-spectrum antibiotic for parenteral administration used for the treatment of serious bacterial infections, such as urinary tract infection, blood infection, bone and joint infection, and lower respiratory tract infection.
+Ceftizoxime is a third-generation cephalosporin antibiotic used in the treatment of various bacterial infections, including lower respiratory tract infection, urinary tract infection, and gonorrhea.
+Pancuronium is a neuromuscular blocker used as an adjunct to general anesthesia to facilitate tracheal intubation and to provide skeletal muscle relaxation during surgery or mechanical ventilation.
+Cilazapril is an ACE inhibitor used for the management of hypertension and heart failure.
+Lithium cation is a drug used for the management of bipolar disorder and other psychiatric conditions.
+Iohexol is a contrast agent for intrathecal administration used in myelography and contrast enhancement for computerized tomography.
+Ephedrine is an alpha and beta-adrenergic agonist indicated to treat hypotension under anesthesia, allergic conditions, bronchial asthma, and nasal congestion.
+Rasagiline is an irreversible inhibitor of monoamine oxidase used for the symptomatic management of idiopathic Parkinson's disease as initial monotherapy and as adjunct therapy to levodopa.
+Milk of magnesia is primarily used to alleviate constipation, but can also be used to relieve indigestion and heartburn.
+Sodium bicarbonate is a compound used for the symptomatic treatment of heartburn, acid indigestion, and upset stomach as well as the treatment of metabolic acidosis associated with conditions such as severe renal disease and circulatory insufficiency due to shock.
+Bezafibrate is a lipid-lowering fibrate used in the management of primary and secondary hyperlipidaemia, when there is a lack of clinical improvement following lifestyle modifications or correction of the underlying disorder.
+Colchicine is an alkaloid used to treat gout and Familial Mediterranean Fever as well as prevent major cardiovascular events.
+Neostigmine is a cholinesterase inhibitor used in the symptomatic treatment of myasthenia gravis by improving muscle tone.
+Danazol is a synthetic steroid and pituitary gonadotropin inhibitor used in the treatment of endometriosis and symptomatic treatment of severe pain and tenderness associated with benign fibrocystic breasts.
+Tiotropium is a long-acting bronchodilator used in the management of chronic obstructive pulmonary disease (COPD).
+Ciclesonide is a glucocorticoid used in the symptomatic relief of nasal symptoms associated with seasonal and perennial allergic rhinitis in adults and adolescents.
+Cefepime is a fourth-generation cephalosporin antibiotic used in the treatment of infections caused by susceptible bacteria, such as pneumonia, urinary tract infections, and skin infections.
+Cefpodoxime is a third-generation cephalosporin antibiotic used in the treatment of various bacterial infections, including gonorrhea, community acquired pneumonia, and sinusitis.
+Paromomycin is an aminoglycoside antibiotic used in the treatment of acute and chronic intestinal amebiasis, and as an adjunct for the management of hepatic coma.
+Amrinone is a positive inotropic agent and phosphodiesterase inhibitor used in the management of treatment of congestive heart failure.
+Bromazepam is a short-acting benzodiazepine with intermediate onset commonly used to treat panic disorders and severe anxiety.
+Metamfetamine is a sympathomimetic agent used in the treatment of attention deficit hyperactivity disorder (ADHD) and exogenous obesity.
+Ursodeoxycholic acid is a bile acid used for the treatment of primary biliary cirrhosis (PBC).
+Solifenacin is a muscarinic antagonist with antispasmodic properties used to treat urge urinary incontinence, urgency, and urinary frequency associated with an overactive bladder.
+Nitrazepam is a long-acting benzodiazepine with intermediate onset commonly used to treat panic disorders, severe anxiety, insomnia, and seizures.
+Deferasirox is an iron chelator used to treat chronic iron overload caused by blood transfusions. Also used in patients with non-transfusion-dependent thalassemia syndromes, and in patients with elevated liver iron concentration and serum ferritin.
+Valganciclovir is an antiviral medication used to treat cytomegalovirus (CMV) retinitis in patients diagnosed with acquired immunodeficiency syndrome (AIDS).
+Hydroxychloroquine is an antimalarial medication used to treat uncomplicated cases of malaria and for chemoprophylaxis in specific regions. Also a disease modifying anti-rheumatic drug (DMARD) indicated for treatment of rheumatoid arthritis and lupus erythematosus.
+Amyl Nitrite is a fast acting vasodilator used for rapid relief of angina pectoris.
+Molindone is an antipsychotic used to treat schizophrenia.
+Thiothixene is an antipsychotic indicated for the management of schizophrenia.
+Lincomycin is an antibiotic indicated only for the treatment of serious infections and is typically reserved for use in cases of penicillin allergy or where penicillin is inappropriate.
+Roflumilast is a selective phosphodiesterase-4 inhibitor indicated to decrease the risk of exacerbations in patients with severe chronic obstructive pulmonary disease (COPD) and to treat plaque psoriasis.
+Thiotepa is an alkylating agent used to prevent graft rejection in stem cell transplantation and to treat a variety of malignancies including certain types of adenocarcinoma and superficial bladder carcinomas.
+Cyproterone acetate is a steroid used in combination with ethinyl estradiol to treat women with severe acne and symptoms of androgenization. Also used alone at much higher doses for palliative treatment of patients with prostate cancer
+Tetrabenazine is a vesicular monoamine transporter 2 (VMAT) inhibitor used for the management of chorea associated with Huntington's Disease.
+Ixabepilone is a microtubule inhibitor administered in combination with capecitabine or alone in the treatment of metastatic or locally advanced breast cancer that has shown inadequate response to taxanes and anthracyclines.
+Nebivolol is a beta blocking agent used to treat hypertension and aid in the management of heart failure.
+Milnacipran is a selective serotonin and norepinephrine reuptake inhibitor (SNRI) used for the treatment of fibromyalgia and a short-term treatment of major depressive disorder.
+Permethrin is an insecticide used to prevent infestation with Sarcoptes scabiei (scabies).
+Silver sulfadiazine is a topical sulfonamide antibiotic that acts on the bacterial cell wall and cell membrane; approved for the treatment of burns.
+Methsuximide is a succinimide anticonvulsant that increases the seizure threshold. Primarily used for childhood absence seizures. Functions by suppressing paroxysmal spike-and-wave patterns associated with lapses of consciousness in absence seizures.
+Rufinamide is an antiepileptic drug used as adjunctive therapy to treat seizures associated with Lennox-Gastaut Syndrome (LGS).
+Tapentadol is an opioid used to manage severe pain that has not responded to non-opioid medications, and for which opioid analgesic therapy is appropriate.
+Prasugrel is a P2Y12 platelet inhibitor used to reduce risk of thrombotic cardiovascular events in unstable angina or non-ST-elevation myocardial infarction (NSTEMI), and in patients with STEMI when managed with either primary or delayed PCI.
+Tolvaptan is a selective vasopressin V2-receptor antagonist to slow kidney function decline in patients at risk for rapidly progressing autosomal dominant polycystic kidney disease (ADPKD). Also used to treat hypervolemic and euvolemic hyponatremia.
+Asenapine is an atypical antipsychotic used to treat patients with bipolar I disorder and patients with schizophrenia.
+Rivaroxaban is a factor Xa inhibitor used to treat deep vein thrombosis (DVT) and pulmonary embolism (PE). May also be used as thrombosis prophylaxis in specific situations.
+Alvimopan is an opioid antagonist used to reduce healing time of the upper and lower gastrointestinal tract following surgical procedures that involve bowel resection with primary anastomosis.
+Temsirolimus is a antineoplastic agent used in the treatment of renal cell carcinoma (RCC) that works by inhibiting mTOR.
+Saxagliptin is an DPP-4 inhibitor used for the management of type 2 diabetes mellitus.
+Telavancin is an antibacterial agent used in the treatment of complicated skin and skin structure infections and types of hospital-acquired bacterial pneumonia.
+Dabigatran etexilate is an anticoagulant used for the prevention of venous thromboembolic events or stroke in patients with recent elective hip or knee replacement surgery and atrial fibrillation.
+Betahistine is an antivertigo agent used for the reduction of episodes of vertigo association with Ménière's disease.
+Methyltestosterone is a synthetic anabolic steroid used for the replacement therapy in conditions associated with testosterone deficiencies in males, such as hypogonadism, and treatment of advancing inoperable metastatic breast cancer in females.
+Naphazoline is a sympathomimetic vasoconstrictor used for the symptomatic relief of redness and itching of the eye, and nasal congestion.
+Methylnaltrexone is a μ-opioid antagonist used for the treatment of opioid-induced constipation in palliative patients that are inadequately responding to laxative therapy.
+Polidocanol is a sclerosing agent used for the treatment of uncomplicated spider veins and uncomplicated reticular veins, all less than 3 mm in diameter, in the lower extremity.
+Deferiprone is an iron chelator used to treat patients with transfusional iron overload caused by thalassemia syndromes.
+Pitavastatin is an HMG-CoA reductase inhibitor used to lower lipid levels and reduce the risk of cardiovascular disease including myocardial infarction and stroke.
