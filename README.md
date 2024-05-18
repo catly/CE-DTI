@@ -8,6 +8,13 @@ We provide an example script to run experiments on our dataset:
 ```Python
 python train.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 inp_size=128
 ```
+We can download the source code and data using Git.
+
+```
+git clone https://github.com/catly/CE-DTI.git
+```
+
+
 
 ### envs
 
@@ -32,21 +39,28 @@ python train.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 inp_size=12
 The file structure is as follows: 
 ```
 CE-DTI
+
 └───data
+
 │   └─── heter
-│   └───zheng
+
+│   └─── zheng
+
 └───trainmodel.py
+
 └───cmodel.py
+
 └───utils.py
+
 └───getEmbFromPubMedBERT.py
-│   │    ...  
+
 
 ```
 
 
 #### `data/` directory
 ##### [heter](https://github.com/luoyunan/DTINet)
-The file structure is as follows:[https://github.com/luoyunan/DTINet](https://github.com/luoyunan/DTINet)
+The heter dataset mentioned in the text can be found in [heter](https://github.com/luoyunan/DTINet).
 - `drug.txt`: list of drug names
 - `protein.txt`: list of protein names
 - `disease.txt`: list of disease names
@@ -66,8 +80,8 @@ The file structure is as follows:[https://github.com/luoyunan/DTINet](https://gi
 - `drug_description_emb.pkl` : Embeddings obtained from drugs through the pre-trained model.
   
 
-##### Zheng
-
+##### [Zheng](https://opus.lib.uts.edu.au/bitstream/10453/133212/4/2844947A-867E-4FFE-B718-ED9D728E0F76%20am.pdf)
+The Zheng dataset mentioned in the text can be found in [Zheng](https://opus.lib.uts.edu.au/bitstream/10453/133212/4/2844947A-867E-4FFE-B718-ED9D728E0F76%20am.pdf).
 - `drug_dic`: a complete ID mapping between drug names and DrugBank ID
 - `target_dic`: a complete ID mapping between target names and UniProt ID
 - `mat_drug_sideeffects.txt` 		: Drug-SideEffect association matrix
@@ -91,7 +105,7 @@ Model utility class.
 Text processing and embedding.
 
 ### Pretrain-Model
-The PubMedBERT model mentioned in the text can be found in [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext).
+The PubMedBERT model mentioned in the paper can be found in [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext).
 
 
 
