@@ -20,15 +20,13 @@ git clone https://github.com/catly/CE-DTI.git
 
 |Name                    |Version               | 
 |-------|-------|
+|python          |          3.8.0      |        
 |dgl              |         0.8.0       |      
 |networkx        |         3.1       |       
 |numpy            |         1.24.3    |      
 |pandas          |          2.0.3     |      
-|pillow          |          7.1.2     |      
-|python          |          3.8.0      |        
 |scikit-learn    |          1.3.0      |         
 |scipy          |           1.10.1     |           
-|tokenizers     |           0.13.3      |            
 |torch        |             1.9.0+cu111  |          
 |torchaudio   |             0.9.0         |          
 |torchvision    |           0.10.0+cu111 |            
