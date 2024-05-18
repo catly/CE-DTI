@@ -13,7 +13,6 @@ python train.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 inp_size=12
 
 |Name                    |Version               | 
 |-------|-------|
-|cudatoolkit       |        11.3.1      |      
 |dgl              |         0.8.0       |      
 |networkx        |         3.1       |       
 |numpy            |         1.24.3    |      
@@ -29,12 +28,25 @@ python train.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 inp_size=12
 
 
 
-
-
 ### Code and data
+The file structure is as follows: 
+```
+CE-DTI
+└───data
+│   └─── heter
+│   └───zheng
+└───trainmodel.py
+└───cmodel.py
+└───utils.py
+└───getEmbFromPubMedBERT.py
+│   │    ...  
+
+```
+
 
 #### `data/` directory
 ##### [heter](https://github.com/luoyunan/DTINet)
+The file structure is as follows:[https://github.com/luoyunan/DTINet](https://github.com/luoyunan/DTINet)
 - `drug.txt`: list of drug names
 - `protein.txt`: list of protein names
 - `disease.txt`: list of disease names
@@ -66,14 +78,11 @@ python train.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 inp_size=12
 - `drug_description.txt` : Drug text description information
 - `drug_description_emb.pkl` : Embeddings obtained from drugs through the pre-trained model.
 
-
-
 #### `train.py` 
 Code module for model training and prediction.
 
 #### `cmodel.py` 
  Model code.
-
 
 #### `utils.py` 
 Model utility class.
@@ -81,7 +90,8 @@ Model utility class.
 #### `getEmbFromPubMedBERT.py` 
 Text processing and embedding.
 
-
+### Pretrain-Model
+The PubMedBERT model mentioned in the text can be found in [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext).
 
 
 
