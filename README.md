@@ -1,4 +1,4 @@
-![1716038414569](https://github.com/catly/CE-DTI/assets/9825370/60adfeb0-7cb7-488e-aefb-09e78a3331d7)## CE-DTI:
+## CE-DTI:
 Causal Enhanced Drug-Target Interaction Prediction based on Graph Generation and Multi-Source Information Fusion
 ### Quick start
 We provide an example script to run experiments on our dataset: 
@@ -15,7 +15,11 @@ git clone https://github.com/catly/CE-DTI.git
 ```
 
 
+
+
 ![1716038414569](https://github.com/catly/CE-DTI/assets/9825370/3e8c74e4-75e9-4773-9fbb-aabc262c23a4)
+
+
 
 
 
