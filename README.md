@@ -7,7 +7,7 @@ We provide an example script to run experiments on our dataset:
 - Run `./getEmbFromPubMedBERT.py` to obtain the text description embeddings for use by the model.
 
 ```Python
-python getEmbFromPubMedBERT.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 inp_size=128
+python getEmbFromPubMedBERT.py 
 
 ```
 
