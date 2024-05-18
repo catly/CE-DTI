@@ -99,16 +99,16 @@ The Zheng dataset mentioned in the text can be found in [Zheng](https://opus.lib
 - `drug_description_emb.pkl` : Embeddings obtained from drugs through the pre-trained model.
 
 #### `train.py` 
-Code module for model training and prediction.
+The train.py file contains the code for model training, evaluation, and prediction.
 
 #### `cmodel.py` 
- Model code.
+The model code for graph generation, multi-source information fusion, and drug-target relationship prediction is stored.
 
 #### `utils.py` 
-Model utility class.
+The utils.py file contains utility classes, data reading functions, graph structure construction methods, and evaluation approaches.
 
 #### `getEmbFromPubMedBERT.py` 
-Text processing and embedding.
+The getEmbFromPubMedBERT.py file contains text processing and code for converting to embeddings using PubMedBERT.
 
 ### Pretrain-Model
 The PubMedBERT model mentioned in the paper can be found in [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext).
