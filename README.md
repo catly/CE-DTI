@@ -3,7 +3,15 @@ Causal Enhanced Drug-Target Interaction Prediction based on Graph Generation and
 ### Quick start
 We provide an example script to run experiments on our dataset: 
 
-- Run `./train.py`: predict drug-target interactions. 
+
+- Run `./getEmbFromPubMedBERT.py` to obtain the text description embeddings for use by the model.
+
+```Python
+python getEmbFromPubMedBERT.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 inp_size=128
+
+```
+
+- Run `./train.py` predict drug-target interactions. 
 
 ```Python
 python train.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 inp_size=128
