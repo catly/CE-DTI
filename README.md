@@ -14,6 +14,10 @@ We can download the source code and data using Git.
 git clone https://github.com/catly/CE-DTI.git
 ```
 
+![Uploading image.png…]()
+
+
+
 
 
 ### envs
