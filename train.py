@@ -57,7 +57,7 @@ def generation_graph(pretrain_epoch):
         train_index = index[0]
         vail_index = index[1]
         test_index = index[2]
-        model = HAN_DTI(
+        model = CE_DTI(
             all_meta_paths=all_meta_paths,
             in_size=inp_size,
             hidden_size=hidden_size,

@@ -45,9 +45,9 @@ class GenerativeGraph(nn.Module):
         return _graph
 
 
-class HANLayer(nn.Module):
+class HGenerativeGraphFusion(nn.Module):
     def __init__(self, meta_paths, inpsize, oupsize, layer_num_heads=1, dropout=0.2,types = ""):
-        super(HANLayer, self).__init__()
+        super(HGenerativeGraphFusion, self).__init__()
         self.gat_layers = nn.ModuleList()
         for i in range(len(meta_paths)):
             self.gat_layers.append(GraphConv(inpsize, oupsize, activation=F.elu, norm="both"))
@@ -82,9 +82,9 @@ class Classifier(nn.Module):
         return nn.Softmax(dim = 1)(out)
 
 
-class HAN_DTI(nn.Module):
+class CE_DTI(nn.Module):
     def __init__(self, all_meta_paths, in_size, hidden_size, out_size, dropout=0.2, layersnums=1, att_heads=1):
-        super(HAN_DTI1, self).__init__()
+        super(CE_DTI, self).__init__()
         self.sum_layers = nn.ModuleList()
         for i in range(len(all_meta_paths)):
             if i == 0:
