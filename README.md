@@ -1,7 +1,28 @@
 ## CE-DTI:
 Causal Enhanced Drug-Target Interaction Prediction based on Graph Generation and Multi-Source Information Fusion
+
+
+
+
+
+<img width="2100" height="1710" alt="image" src="https://github.com/user-attachments/assets/b20d7020-6669-49fa-96b5-da136b4ae743" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Quick start
 We provide an example script to run experiments on our dataset: 
+
 
 
 - Run `./getEmbFromPubMedBERT.py` to obtain the text description embeddings for use by the model.
@@ -28,7 +49,7 @@ git clone https://github.com/catly/CE-DTI.git
 
 
 
-<img width="2100" height="1710" alt="image" src="https://github.com/user-attachments/assets/b20d7020-6669-49fa-96b5-da136b4ae743" />
+
 
 
 
