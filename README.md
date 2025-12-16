@@ -14,7 +14,8 @@ python getEmbFromPubMedBERT.py
 - Run `./train.py` predict drug-target interactions. 
 
 ```Python
-python train.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 inp_size=256
+python train.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 --inp_size=256
+python train.py --learning_rate=0.001 --dataname=heter --dropout=0.2 --inp_size=256
 ```
 We can download the source code and data using Git.
 
