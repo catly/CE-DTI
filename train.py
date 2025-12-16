@@ -99,7 +99,7 @@ def generation_graph(pretrain_epoch):
 
         predict(model,graph, node_feature, data, test_index,text_emb,label)
 
-def predict(model,graph, node_feature, data, test_index,text_embm,label):
+def predict(model,graph, node_feature, data, test_index,text_emb,label):
     with torch.no_grad():
         out, _ = model(graph, node_feature, data,test_index, False, text_emb=text_emb)
         out = out[test_index]
