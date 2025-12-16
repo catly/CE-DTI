@@ -92,7 +92,7 @@ class CE_DTI(nn.Module):
             else:
                 types = ""
             self.sum_layers.append(
-                HANLayer(all_meta_paths[i], in_size, hidden_size, 1, dropout,types=types))
+                HGenerativeGraphFusion(all_meta_paths[i], in_size, hidden_size, 1, dropout,types=types))
         self.encoder = nn.ModuleList()
         if layersnums >= 2:
             self.encoder.append(
@@ -188,3 +188,4 @@ class CE_DTI(nn.Module):
         c = c / (N ** 2)
         loss_inv = torch.diagonal(c).sum()
         return loss_inv + std_loss * 0.001
+
