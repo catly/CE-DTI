@@ -95,20 +95,10 @@ def load_hetero(network_path):
     node_num = [num_drug, num_protein]
     all_meta_paths = [d_d.canonical_etypes, p_p.canonical_etypes]
 
-
-    # mabreal = torch.tensor(np.loadtxt(network_path + "maybeReal.txt"), dtype=torch.long)
-    #
-    # f = open("./maybe.txt", "w")
-    # for i in dataset:
-    #     f.write(f"{i[0] },  {i[1]},{i[2]}\n")
-    # f.close()
-
-
     text_emb = pd.read_pickle(network_path+"drug_description_emb.pkl")
 
-    trp = torch.tensor(np.loadtxt(network_path + "train_ind_casual_node.txt"), dtype=torch.long)
 
-    # trp = torch.tensor(np.loadtxt(network_path + "train_ind.txt"), dtype=torch.long)
+    trp = torch.tensor(np.loadtxt(network_path + "train_ind.txt"), dtype=torch.long)
     vap = torch.tensor(np.loadtxt(network_path + "vail_ind.txt"), dtype=torch.long)
     tep = torch.tensor(np.loadtxt(network_path + "test_ind.txt"), dtype=torch.long)
 
@@ -213,3 +203,4 @@ def load_dataset(dateName):
         return load_zheng("./data/zheng/")
     else:
         print(f"no found dataname {dateName}")
+
