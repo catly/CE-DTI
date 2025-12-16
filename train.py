@@ -29,30 +29,29 @@ args.add_argument("--dropout",default=0.2)
 args.add_argument("--ptwd",default=0)
 args.add_argument("--epochs",default=200)
 args.add_argument("--dataname",default="heter")
-
+args.add_argument("--device",default="cuda:2" )
 args = args.parse_args()
 
-args['device'] = "cuda:0" if torch.cuda.is_available() else "cpu"
 
-inp_size = args.inp_size
-hidden_size = args.hidden_size
-out_size = args.out_size
-dropout = args.dropout
-ptlr = args.learning_rate
-ptwd = args.ptwd
-epochs = args.epochs
+inp_size = int(args.inp_size)
+hidden_size = int(args.hidden_size)
+out_size = int(args.out_size)
+dropout = float(args.dropout)
+ptlr = float(args.learning_rate)
+ptwd = float(args.ptwd)
+epochs = int(args.epochs)
 
 
 def generation_graph(pretrain_epoch):
     for name in [args.dataname]:
         # for name in ["heter","zheng"]:
         data, graph, num, all_meta_paths, index,text_emb = load_dataset(name)
-        graph = [i.to(args["device"]) for i in graph]
-        label = torch.tensor(data[:, 2:3]).to(args['device'])
+        graph = [i.to(args.device) for i in graph]
+        label = torch.tensor(data[:, 2:3]).to(args.device)
         hd = torch.randn((num[0], inp_size))
         hp = torch.randn((num[1], inp_size))
-        features_d = hd.to(args['device'])
-        features_p = hp.to(args['device'])
+        features_d = hd.to(args.device)
+        features_p = hp.to(args.device)
         node_feature = [features_d, features_p]
         train_index = index[0]
         vail_index = index[1]
@@ -63,7 +62,7 @@ def generation_graph(pretrain_epoch):
             hidden_size=hidden_size,
             out_size=out_size,
             dropout=dropout,
-        ).to(args['device'])
+        ).to(args.device)
         optim = torch.optim.AdamW(lr=ptlr, weight_decay=ptwd, params=model.parameters())
         l = torch.nn.CrossEntropyLoss()
         bestacc = 0
@@ -83,8 +82,6 @@ def generation_graph(pretrain_epoch):
             trainROC = get_roc(out, label[train_index])
             trainPR = get_pr(out, label[train_index])
 
-            if e % 1 == 0:
-                print("train", loss.item(), trainACC.item(), trainROC.item(), trainPR.item())
             model.eval()
             with torch.no_grad():
                 out, loss = model(graph, node_feature, data, vail_index, False,e,text_emb =text_emb)
@@ -95,14 +92,14 @@ def generation_graph(pretrain_epoch):
                 testROC = get_roc(out, label[vail_index])
                 testPR = get_pr(out, label[vail_index])
                 if e % 1 == 0:
-                    print("vail", testACC.item(), testROC.item(), testPR.item())
+                    print(f"vail:  acc:{testACC.item():.4f}, roc:{testROC.item():.4f},pr:{testPR.item():.4f}" )
                 bestacc = max(bestacc, testACC)
                 broc = max(broc, testROC)
                 bpr = max(bpr, testPR)
 
-        predict(model,graph, node_feature, data, test_index,text_emb)
+        predict(model,graph, node_feature, data, test_index,text_emb,label)
 
-def predict(model,graph, node_feature, data, test_index,text_emb):
+def predict(model,graph, node_feature, data, test_index,text_embm,label):
     with torch.no_grad():
         out, _ = model(graph, node_feature, data,test_index, False, text_emb=text_emb)
         out = out[test_index]
@@ -110,7 +107,7 @@ def predict(model,graph, node_feature, data, test_index,text_emb):
             dtype=float) / len(test_index)
         testROC = get_roc(out, label[test_index])
         testPR = get_pr(out, label[test_index])
-        print("test", testACC.item(), testROC.item(), testPR.item())
+        print(f"test acc:{testACC.item():.4f}, roc:{testROC.item():.4f},pr:{testPR.item():.4f}" )
 
 
 generation_graph(epochs)
