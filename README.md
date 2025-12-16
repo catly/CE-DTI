@@ -15,6 +15,7 @@ python getEmbFromPubMedBERT.py
 
 ```Python
 python train.py --learning_rate=0.001 --dataname=zheng --dropout=0.2 --inp_size=256
+
 python train.py --learning_rate=0.001 --dataname=heter --dropout=0.2 --inp_size=256
 ```
 We can download the source code and data using Git.
@@ -26,7 +27,8 @@ git clone https://github.com/catly/CE-DTI.git
 
 
 
-![1716038414569](https://github.com/catly/CE-DTI/assets/9825370/3e8c74e4-75e9-4773-9fbb-aabc262c23a4)
+
+<img width="2100" height="1710" alt="image" src="https://github.com/user-attachments/assets/b20d7020-6669-49fa-96b5-da136b4ae743" />
 
 
 
